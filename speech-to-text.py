@@ -1,27 +1,22 @@
 import speech_recognition as sr
+import time
+import keyboard
 r = sr.Recognizer()
+all_text = []
 
-while True:
-    try:
-        with sr.Microphone() as source:
-            print("Listening...")
-            
-            r.adjust_for_ambient_noise(source, duration=0.2)
-            audio = r.listen(source)
-            text = r.recognize_google(audio)
-            text = text.lower()  
-            print("You said:", text)
-            
-            if "exit" in text:
-                print("Exiting program...")
-                break
+def callback(recognizer, audio):
+    print(audio)
+    text = recognizer.recognize_google(audio)
+    with open("text.txt", 'w') as f:
+        f.write(text)
+    with open("audio.wav", 'wb') as w:
+        w.write(audio.get_wav_data())
 
-    except sr.RequestError as e:
-        print("Could not request results; {0}".format(e))
-
-    except sr.UnknownValueError:
-        print("Could not understand audio")
-
-    except KeyboardInterrupt:
-        print("Program terminated by user")
-        break
+m = sr.Microphone()
+with m as source:
+    r.adjust_for_ambient_noise(source)
+stop_listening = r.listen_in_background(m, callback)
+print("Listening...")
+keyboard.wait('q')
+print("Stopping...")
+stop_listening(wait_for_stop=True)
