@@ -7,6 +7,13 @@ interface AnalysisResult {
   confidence: number;
 }
 
+interface Song {
+  title: string;
+  artist: string;
+  spotify_id?: string;
+}
+const API_BASE = "https://vineraj--modulate-backend-serve.modal.run";
+
 export default function Home() {
   const [isRecording, setIsRecording] = useState(false);
   const [audioURL, setAudioURL] = useState<string | null>(null);
@@ -15,8 +22,9 @@ export default function Home() {
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [analysisResult, setAnalysisResult] = useState<AnalysisResult | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [songs, setSongs] = useState<any[] | null>(null);
+  const [songs, setSongs] = useState<Song[]>([]);
   const [isLoadingSongs, setIsLoadingSongs] = useState(false);
+  const [selectedSong, setSelectedSong] = useState<Song | null>(null);
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const audioChunksRef = useRef<Blob[]>([]);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
@@ -148,7 +156,7 @@ export default function Home() {
       formData.append("audio", recordedAudioBlob, "recording.wav");
 
       // Send to backend
-      const analysisResponse = await fetch("http://localhost:5000/analyze", {
+      const analysisResponse = await fetch(`${API_BASE}/analyze`, {
         method: "POST",
         body: formData,
       });
@@ -187,7 +195,7 @@ export default function Home() {
 
     try {
       console.log(analysisResult.emotion);
-      const response = await fetch("http://localhost:5000/songs", {
+      const response = await fetch(`${API_BASE}/songs`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -274,16 +282,68 @@ export default function Home() {
             </div>
           )}
 
-          {songs && (
-            <div className="w-full mt-4 p-4 rounded-lg bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200">
-              <p className="font-medium text-lg mb-3">Recommended Songs</p>
-              <pre className="bg-white dark:bg-gray-800 p-3 rounded text-black dark:text-white text-sm overflow-auto">
-                {JSON.stringify(songs, null, 2)}
-              </pre>
+          {/* Song list */}
+          {songs.length > 0 && (
+            <div className="w-full mt-4 flex flex-col gap-2">
+              <h3 className="text-lg font-semibold text-zinc-800 dark:text-zinc-200">
+                Recommended Songs
+              </h3>
+              {songs.map((song, i) => (
+                <button
+                  key={i}
+                  onClick={() => setSelectedSong(song)}
+                  className={`w-full text-left p-3 rounded-lg border transition-colors ${
+                    selectedSong === song
+                      ? "border-purple-500 bg-purple-50 dark:bg-purple-900/30"
+                      : "border-zinc-200 dark:border-zinc-700 hover:bg-zinc-100 dark:hover:bg-zinc-800"
+                  }`}
+                >
+                  <p className="font-medium text-zinc-900 dark:text-zinc-100">
+                    {song.title}
+                  </p>
+                  <p className="text-sm text-zinc-500 dark:text-zinc-400">
+                    {song.artist}
+                  </p>
+                </button>
+              ))}
             </div>
           )}
 
-          {songs && songs.length === 0 && (
+          {/* Embedded Spotify Player */}
+          {selectedSong?.spotify_id && (
+            <div className="w-full mt-4">
+              <iframe
+                src={`https://open.spotify.com/embed/track/${selectedSong.spotify_id}?utm_source=generator&theme=0`}
+                width="100%"
+                height="152"
+                frameBorder="0"
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                loading="lazy"
+                className="rounded-xl"
+              />
+            </div>
+          )}
+
+          {/* Fallback: search on Spotify if no spotify_id */}
+          {selectedSong && !selectedSong.spotify_id && (
+            <div className="w-full mt-4 p-4 rounded-lg bg-zinc-100 dark:bg-zinc-800 text-center">
+              <p className="text-zinc-600 dark:text-zinc-300 mb-2">
+                {selectedSong.title} — {selectedSong.artist}
+              </p>
+              <a
+                href={`https://open.spotify.com/search/${encodeURIComponent(
+                  `${selectedSong.title} ${selectedSong.artist}`
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-green-500 hover:bg-green-600 text-white font-medium transition-colors"
+              >
+                🔍 Open in Spotify
+              </a>
+            </div>
+          )}
+
+          {songs.length === 0 && isLoadingSongs === false && analysisResult && songs !== null && (
             <div className="w-full mt-4 p-4 rounded-lg bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200">
               <p className="font-medium">No songs found for this emotion</p>
             </div>

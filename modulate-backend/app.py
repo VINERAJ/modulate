@@ -95,32 +95,50 @@ def predict_mood_result(audio_file_path):
     except Exception as e:
         raise Exception(f"Error processing audio: {str(e)}")
     
-songs_df = pd.read_csv('..\songs.csv')
+songs_df = pd.read_csv(os.path.join(os.path.dirname(__file__), '..', 'songs.csv'))
 
 def get_song_for_mood(mood):
     mood = mood.strip().lower()
 
-    # Try exact mood match first
-    mood_matches = songs_df[
-        songs_df["labels"].fillna("").str.lower().str.contains(fr"\\b{mood}\\b", regex=True)
-    ]
-    if not mood_matches.empty:
-        song = mood_matches.sample(1).iloc[0]
-        return {
-            "artist": song["artist"],
-            "title": song["title"],
-            "spotify_url": song["spotify_url"],
-            "source": "mood_match"
-        }
-
-    # If no mood match in songs.csv, return a random song from songs.csv (no fallback list)
-    random_song = songs_df.sample(1).iloc[0]
-    return {
-        "artist": random_song["artist"],
-        "title": random_song["title"],
-        "spotify_url": random_song["spotify_url"],
-        "source": "random_from_songs_csv"
+    # Map model emotions to uplifting/appropriate CSV labels: calm, fearful, happy, sad
+    emotion_map = {
+        "angry": "calm",       # calm down angry users
+        "disgust": "happy",    # uplift negative feelings
+        "neutral": "happy",    # energize neutral mood
+        "surprised": "happy",  # match high energy
+        "sad": "happy",        # uplift sad users
+        "fearful": "calm",     # soothe fearful users
     }
+    mapped_mood = emotion_map.get(mood, mood)
+
+    # Try mapped mood match first
+    mood_matches = songs_df[
+        songs_df["labels"].fillna("").str.lower().str.contains(mapped_mood, na=False)
+    ]
+
+    if not mood_matches.empty:
+        n = min(5, len(mood_matches))
+        selected = mood_matches.sample(n=n)
+    elif len(songs_df) > 0:
+        n = min(5, len(songs_df))
+        selected = songs_df.sample(n=n)
+    else:
+        return []
+
+    songs = []
+    for _, row in selected.iterrows():
+        spotify_url = str(row.get("spotify_url", ""))
+        # Extract Spotify track ID from URL
+        spotify_id = None
+        if "track/" in spotify_url:
+            spotify_id = spotify_url.split("track/")[-1].split("?")[0].strip()
+        songs.append({
+            "artist": str(row.get("artist", "Unknown")),
+            "title": str(row.get("title", "Unknown")),
+            "spotify_id": spotify_id,
+            "spotify_url": spotify_url,
+        })
+    return songs
     
 @app.route('/')
 def home():
@@ -186,11 +204,11 @@ def get_songs():
         
         emotion = data['emotion'].lower()
         
-        songs = get_song_for_mood(emotion)
-        print(songs)
+        songs_list = get_song_for_mood(emotion)
+        print(songs_list)
         
         return jsonify({
-            'songs': songs,
+            'songs': songs_list,
             'success': True
         }), 200
     
