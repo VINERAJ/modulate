@@ -1,0 +1,646 @@
+,artist,genre,title,album,year,labels,spotify_url
+0,Nirvana,Rock,You Know You’re Right,Nirvana,2002.0,"calm, sad",https://open.spotify.com/track/5O8L4I2S4izFGDjvP7xAKv
+1,Damian Marley,Reggae,Here We Go,Stony Hill,2017.0,"happy, fearful",https://open.spotify.com/track/0dmYihdEAM4MvsBC6gXGBl
+3,UB40,Reggae,Food For Thought,Signing Off,1980.0,"happy, sad, fearful",https://open.spotify.com/track/5YkkeIiErNf2ckvMxmT5RT
+4,Johnny Cash,Country,I’ve Been Everywhere,American II: Unchained,1996.0,"happy, calm, happy",https://open.spotify.com/track/2vLPGv0TAzbY68zYBbRCD3
+5,Alan Jackson,Country,It’s Five O’Clock Somewhere,Greatest Hits Volume II Disc 1,2003.0,"sad, sad, fearful",https://open.spotify.com/track/7KysI43rsjlhjTeWO6ePUq
+6,Snoop Dogg,Hip-Hop,Beautiful,Paid Tha Cost To Be Da Bo$$,2002.0,"happy, happy, sad, calm",https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm
+7,Pink Floyd,Rock,Hey You,The Wall,1979.0,"calm, happy, sad, calm",https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN
+8,De La Soul,Hip-Hop,Buddy,3 Feet High and Rising,1989.0,"happy, happy, calm",https://open.spotify.com/track/0xr24hc6g7hFBZcU4xY87j
+9,Placebo,Rock,Running Up That Hill,Covers,2003.0,"sad, calm, fearful",https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9
+10,The Sundays,Rock,Can’t Be Sure,"Reading, Writing, and Arithmetic ",1990.0,"calm, calm, happy, sad, sad",https://open.spotify.com/track/5w5PMRzoQIC4KA3yLYqY83
+11,The Beatles,Rock,Help!,Help!,1965.0,"calm, sad, fearful",https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN
+12,Lauryn Hill,Hip-Hop,When It Hurts so Bad,The Miseducation of Lauryn Hill,1998.0,"calm, sad, calm",https://open.spotify.com/track/3CNSWn2mISh7Ll3yJQbVEw
+13,Pink Floyd,Rock,"Another Brick in the Wall, Pt. 2",The Wall,1979.0,"happy, happy, sad, fearful",https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV
+14,Shania Twain,Country,Up!,Up!,2003.0,"happy, sad, sad, fearful",https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC
+15,The Mighty Diamonds,Reggae,Bodyguard,Deeper Roots Plus Dub,,"happy, happy, sad",https://open.spotify.com/track/3874ZIbfKHuxphfogHqvRi
+16,Kendrick Lamar,Hip-Hop,"Sing About Me, I’m Dying of Thirst","good kid, m.A.A.d city (Deluxe Version)",2012.0,"sad, calm",https://open.spotify.com/track/3q2v8QaTnHLveAQzR6gvYm
+17,The Doors,Rock,Break On Through (To the Other Side),The Doors,1967.0,"calm, sad, calm, fearful",https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM
+18,Wu-Tang Clan,Hip-Hop,Reunited,Wu-Tang Forever,1997.0,"happy, happy, sad",https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH
+19,JAY-Z,Hip-Hop,Empire State of Mind,The Blueprint 3,2009.0,"happy, calm, happy",https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO
+20,Yellowman,Reggae,Wreck a pum pum,Nobody Move Nobody Get Hurt,,"calm, happy, calm, calm",https://open.spotify.com/track/3g5R5Ai5tW5FeqVaLDgWY7
+21,Nirvana,Rock,Where Did You Sleep Last Night,MTV Unplugged in New York,1994.0,"sad, calm, fearful",https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht
+22,Radiohead,Rock,Identikit,A Moon Shaped Pool,2016.0,"sad, calm",https://open.spotify.com/track/135WMJorhiGvPe50XF54D9
+23,Radiohead,Rock,High and Dry,The Bends,1995.0,"calm, sad, calm, fearful",https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf
+24,Garth Brooks,Country,That Summer,The Chase,1993.0,"calm, calm",https://open.spotify.com/track/1cLcb7h7H2evSKZjKCTLZG
+25,Peter Tosh,Reggae,Pick Myself Up,Bush Doctor,,"calm, happy, sad, sad",https://open.spotify.com/track/60ZAREwasjlQgHL4Lf9wzm
+26,Soundgarden,Rock,Mailman,Superunknown ,1994.0,"happy, sad, sad, fearful",https://open.spotify.com/track/7FjITxlcgw9rsUiFgkxCeL
+27,Lil Wayne,Hip-Hop,A Milli,Tha Carter III,2008.0,"happy, fearful",https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C
+28,Elvis Presley,Rock,Blue Christmas,Elvis’ Christmas Album,1964.0,"calm, sad, fearful",https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ
+29,Dolly Parton,Country,I Will Always Love You,Jolene,1973.0,"calm, sad, calm",https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu
+30,The Notorious B.I.G.,Hip-Hop,Warning,Ready to Die,1994.0,"happy, fearful",https://open.spotify.com/track/33rsCCLHklTQav9klbpnAi
+31,Johnny Cash,Country,Man in Black,Man In Black,,"calm, sad, sad, fearful",https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x
+32,Tim McGraw,Country,Indian Outlaw,Not a Moment Too Soon,1994.0,"happy, happy, calm",https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9
+33,Creed,Rock,Faceless Man,Human Clay,1999.0,"calm, happy, sad, sad",https://open.spotify.com/track/601pVR5KgZgSDL90KfQm9z
+34,Rita Marley,Reggae,Love Iyah,Harambe (Working Together For Freedom),,"happy, sad, calm",https://open.spotify.com/track/6egTvdM1VwyvK55xNa9TlD
+35,Eminem,Hip-Hop,Killshot,,2018.0,"happy, fearful",https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv
+36,The Smiths,Rock,Cemetry Gates,The Queen Is Dead,1986.0,"happy, sad, sad, fearful",https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t
+37,Peter Tosh,Reggae,Equal Rights,Equal Rights,,"happy, fearful",https://open.spotify.com/track/1o0lfRVsQfRZ6VeAb82vum
+39,Shaggy,Reggae,Big Up,Pure Pleasure,1993.0,"happy, happy, calm",https://open.spotify.com/track/2Jnk9kI8YtFmKJXDZGjo0p
+40,Led Zeppelin,Rock,Immigrant Song,Led Zeppelin III,1970.0,"happy, sad",https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx
+41,​​blink-182,Rock,Misery,California (Deluxe Edition),2017.0,"happy, sad, sad",https://open.spotify.com/track/4C3jr01eft6Vt7zblEnvSN
+42,Wu-Tang Clan,Hip-Hop,Protect Ya Neck (The Jump Off),The W,2000.0,"calm, happy, fearful",https://open.spotify.com/track/00JErUuTZnBA8eugXCWGuB
+43,Martina McBride,Country,I Just Call You Mine,Shine,2009.0,"happy, calm",https://open.spotify.com/track/0Vx5HrgZHaXz03iu6eQP4g
+44,Dr. Dre,Hip-Hop,Deep Cover,First Round Knock Out,1992.0,"happy, fearful",https://open.spotify.com/track/3wM5g9PFKNrbaveRwXIQ8d
+45,Desmond Dekker,Reggae,This woman,,,"happy, happy, calm, sad, sad, fearful",https://open.spotify.com/track/13BdniQ1pdiLp5q4GqWP5y
+46,The Mission UK,Rock,Naked And Savage,The First Chapter,,"sad, calm, fearful",https://open.spotify.com/track/03YhzLxmt1eogRXcMH6cFv
+47,Soundgarden,Rock,Superunknown,Superunknown ,1994.0,"calm, happy, sad, sad",https://open.spotify.com/track/7GwrtGLmY02SKSil0kH0rH
+48,Rita Marley,Reggae,Retribution,Harambe (Working Together For Freedom),1982.0,"happy, sad, fearful",https://open.spotify.com/track/2Lhp9CSCNEGpJgWunw3qki
+49,Reba McEntire,Country,Tammy Wynette Kind of Pain,Stronger Than the Truth,2019.0,"calm, sad, fearful",https://open.spotify.com/track/58pqBJjNAOBeqT46o362fV
+50,Lucky Dube,Reggae,Together As One,Captured Live,,"calm, happy, sad, fearful",https://open.spotify.com/track/60FnGIRE3odaPdnvDqDutb
+51,The Mighty Diamonds,Reggae,Natural Natty,When the Right Time Come (I Need a Roof),,"happy, fearful",https://open.spotify.com/track/1mPrcnGM7qflOl0s5IQPLL
+52,Johnny Cash,Country,Ring of Fire,At San Quentin,1963.0,"happy, happy, calm, sad, calm",https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL
+53,R.E.M.,Rock,Country Feedback,Out of Time,1991.0,"calm, happy, sad",https://open.spotify.com/track/2H2V8zM6H5RUg8dXfIhpNf
+54,The Kinks,Rock,All Day and All of the Night,Kinks-Size,1964.0,calm,https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ
+55,The Doors,Rock,Alabama Song (Whisky Bar),The Doors,1967.0,"calm, sad",https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs
+56,The Cure,Rock,Disintegration,Disintegration,1989.0,"happy, happy, calm, happy, sad",https://open.spotify.com/track/0zY8t5dC1KQXcPUKByWMJM
+57,Burning Spear,Reggae,African Teacher,Hail H.I.M.,,"happy, happy, sad",https://open.spotify.com/track/41YxQq6WsgzWKf6MoFU3ei
+58,The Doors,Rock,"Hello, I Love You",Waiting For The Sun,1968.0,"calm, calm, fearful",https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn
+59,George Strait,Country,Wrapped,It Just Comes Natural,2006.0,"calm, sad, calm",https://open.spotify.com/track/1FWAB1KZHJnAeET0288xha
+60,Manic Street Preachers,Rock,Ifwhiteamericatoldthetruthforonedayit’sworldwouldfallapart,The Holy Bible,1994.0,"happy, sad, fearful",https://open.spotify.com/track/5Dcpl2k7kJzgZecHHeZiAu
+61,Coolio,Hip-Hop,Cruisin’,Gangsta’s Paradise,1995.0,"calm, happy, calm",https://open.spotify.com/track/4KBQyyJPoSuQvVeAGd9nFO
+62,The Sisters of Mercy,Rock,Lucretia My Reflection,Floodland,1987.0,"sad, sad, fearful",https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs
+63,Wu-Tang Clan,Hip-Hop,Protect Ya Neck,Enter the Wu-Tang (36 Chambers),1992.0,"happy, happy, fearful",https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn
+64,Run-D.M.C.,Hip-Hop,Raising Hell,Raising Hell,1986.0,"happy, happy, sad",https://open.spotify.com/track/1zAfj2rXxddGb8Dhnwxue8
+65,Eminem,Hip-Hop,The Ringer,Kamikaze,2018.0,"happy, sad, fearful",https://open.spotify.com/track/2jt2WxXMCD4zjACthkJQVE
+66,Placebo,Rock,Pure Morning,Without You I’m Nothing,1998.0,"happy, calm, happy, happy, calm",https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr
+67,UB40,Reggae,Homely Girl,Labour of Love II,,"calm, sad, calm",https://open.spotify.com/track/0ZQLr5wK0UHSusW9fAdUdu
+68,J. Cole,Hip-Hop,G.O.M.D.,2014 Forest Hills Drive,2014.0,"happy, happy, fearful",https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp
+69,The Sisters of Mercy,Rock,More,Vision Thing,1990.0,calm,https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq
+70,Post Malone,Hip-Hop,Psycho,beerbongs & bentleys,2018.0,"happy, happy, sad, fearful",https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C
+71,Maxi Priest,Reggae,Some Guys Have All the Luck,Maxi,,"sad, calm",https://open.spotify.com/track/3vEQs3x714FkGugUHPjhas
+72,Post Malone,Hip-Hop,​​rockstar,beerbongs & bentleys,2017.0,"happy, happy, happy",https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt
+73,The Beatles,Rock,Let It Be,Let It Be,1970.0,"calm, happy, calm, happy, calm, fearful",https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+74,Catatonia,Rock,Game On,International Velvet,,"happy, sad, sad",https://open.spotify.com/track/4kM9ULrXMNWeJkniaw8sYZ
+75,Post Malone,Hip-Hop,Candy Paint,beerbongs & bentleys,2017.0,"happy, happy, fearful",https://open.spotify.com/track/32lItqlMi4LBhb4k0BaSaC
+76,Nirvana,Rock,Heart-Shaped Box,In Utero,1993.0,"calm, sad, fearful",https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa
+77,The Who,Rock,Tommy Can You Hear Me,Tommy,1969.0,"calm, sad, calm, fearful",https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy
+78,Catatonia,Rock,International Velvet,International Velvet,,"happy, happy, happy, sad",https://open.spotify.com/track/2gOvFpkpddhbYr2Sr1HNMH
+79,The Sisters of Mercy,Rock,1959,Floodland,,"calm, calm, calm",https://open.spotify.com/track/6338DTvCNXat8wvWtBjdSy
+80,2Pac,Hip-Hop,All Eyez on Me,All Eyez on Me,1996.0,"happy, sad, fearful",https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo
+82,The Church,Rock,Destination,Starfish,1988.0,"calm, calm, sad, sad",https://open.spotify.com/track/4O07d8l6eMj8si39FBHBxn
+83,​​blink-182,Rock,What’s My Age Again?,Enema of the State,1999.0,"happy, happy, sad, calm, fearful",https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52
+84,Tim McGraw,Country,It’s Your Love,Everywhere,1997.0,"happy, calm",https://open.spotify.com/track/503sFkc8Y2eyGnM6cu8kHm
+85,Eminem,Hip-Hop,Venom,Kamikaze,2018.0,"happy, sad, fearful",https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4
+86,Merle Haggard,Country,Are The Good Times Really Over (I Wish a Buck Was Still Silver),Big City,1981.0,"calm, sad, fearful",https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49
+87,Lil Wayne,Hip-Hop,Rich As Fuck,I Am Not a Human Being II,2013.0,"happy, happy, sad",https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE
+89,Burning Spear,Reggae,Dry & Heavy,The Best of Burning Spear — Marcus Garvey,,"happy, fearful",https://open.spotify.com/track/0lBQx17Kc5y5AlLveCbOZM
+90,Dolly Parton,Country,Dumb Blonde,"Hello, I’m Dolly",1967.0,"happy, happy, happy, fearful",https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp
+91,Led Zeppelin,Rock,The Battle of Evermore,Led Zeppelin IV,1971.0,"calm, happy, happy, sad, sad",https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO
+92,N.W.A,Hip-Hop,Fuck tha Police,Straight Outta Compton,1988.0,"happy, sad, fearful",https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7
+93,Luke Bryan,Country,Knockin’ Boots,,2019.0,"happy, happy, calm",https://open.spotify.com/track/2opQESZb7JsRKCvWMBPeuv
+94,Stone Temple Pilots,Rock,Meatplow,Purple,1994.0,"sad, calm, fearful",https://open.spotify.com/track/5zzF36KuTsYNN3XiTyAUu2
+95,Stone Temple Pilots,Rock,Plush,Core ,1992.0,"happy, calm, sad",https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4
+96,The Kinks,Rock,This Time Tomorrow,"Lola Versus Powerman and the Moneygoround, Part One ",1970.0,"happy, happy, sad, sad",https://open.spotify.com/track/1gnP3cx9uzFAVll8OfBcqz
+97,Pink Floyd,Rock,Mother,The Wall,1979.0,"calm, sad, calm",https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b
+98,Creed,Rock,Weathered,Weathered,2001.0,sad,https://open.spotify.com/track/33P0xVFGIPfCB2ZBCTGTY9
+99,Burning Spear,Reggae,Not Guilty,,,"happy, sad, fearful",https://open.spotify.com/track/3w2a729QpGLTLUBSuKUrfW
+100,Damian Marley,Reggae,Khaki Suit,Welcome to Jamrock,2005.0,"happy, fearful",https://open.spotify.com/track/3kBHaED930SMaZBxIvP6YD
+101,The Replacements,Rock,The Ledge,Pleased to Meet Me,1987.0,"calm, calm, happy",https://open.spotify.com/track/0NPGjEcXVFmpi6k8kWXYxJ
+102,Alan Jackson,Country,The Old Rugged Cross,Precious Memories,2006.0,"calm, calm",https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN
+103,David Bowie,Rock,Lazarus,★ (Blackstar),2015.0,"happy, sad",https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0
+104,Reba McEntire,Country,Because of You,Reba: Duets,2007.0,"calm, sad, fearful",https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J
+105,Drake,Hip-Hop,Started from the Bottom,Nothing Was the Same,2013.0,"happy, happy",https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf
+106,The Beatles,Rock,I Am the Walrus,Magical Mystery Tour,1967.0,"calm, calm, happy, sad, fearful",https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6
+107,Hank Williams,Country,Honky Tonk Blues,Moanin’ The Blues,1952.0,"happy, calm, happy, calm, sad",https://open.spotify.com/track/3BzfkAB5qE3BNiVsdA35nu
+108,Stone Temple Pilots,Rock,Big Bang Baby,Tiny Music... Songs from the Vatican Gift Shop,1996.0,"calm, calm, sad, fearful",https://open.spotify.com/track/7mHk9xv1aYsd0T3m9nolyk
+109,Merle Haggard,Country,Running Kind,A Working Man Can’t Get Nowhere Today,1977.0,"calm, sad, fearful",https://open.spotify.com/track/3rNLLvZs6Tnfl5YqVVqWX0
+110,Placebo,Rock,I Know,Placebo,1996.0,"calm, sad, fearful",https://open.spotify.com/track/3ICRNTxEU4tRb3oBK8f1Nm
+111,Carrie Underwood,Country,That Song That We Used to Make Love To,Cry Pretty,2018.0,"calm, sad, calm, fearful",https://open.spotify.com/track/3vkyyOw92iKKIV5Io2fBdk
+112,​​blink-182,Rock,All the Small Things,Enema of the State,2000.0,"calm, happy, happy, sad, calm, fearful",https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+113,Kenny Rogers,Country,Coward Of The County,Kenny,1979.0,"calm, calm, happy, sad, calm",https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx
+114,Kanye West,Hip-Hop,I Love Kanye,The Life of Pablo,2016.0,"happy, calm, sad",https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ
+115,Bauhaus,Rock,Bela Lugosi’s Dead,Crackle,1979.0,"calm, sad, sad, calm, fearful",https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8
+116,Placebo,Rock,Special K,Black Market Music,2000.0,"happy, sad, fearful",https://open.spotify.com/track/0W6QtgkxPNJ7simo1UcBIr
+117,Eminem,Hip-Hop,The Monster,The Marshall Mathers LP2,2013.0,"happy, happy, calm, happy, fearful",https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C
+118,J. Cole,Hip-Hop,Love Yourz,2014 Forest Hills Drive,2014.0,"calm, sad, sad, fearful",https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH
+119,Jah Cure,Reggae,Call On Me,The Universal Cure,,"calm, calm",https://open.spotify.com/track/3iFYAlDnFLEkfjLE16UBtI
+120,Catatonia,Rock,Londinium,Equally Cursed and Blessed,1999.0,"sad, fearful",https://open.spotify.com/track/6ZLGAhkkv80eP7CEBRiWyk
+121,The Church,Rock,Aura,Priest=Aura,,"happy, sad, sad, fearful",https://open.spotify.com/track/1hxKvElBmk1rCREEoqYmhq
+122,Rita Marley,Reggae,Thank You Jah,Who Feels It Knows It,1980.0,"calm, happy, sad",https://open.spotify.com/track/4qF7GDLGpYUGBlgjaEsUtL
+123,The Smiths,Rock,Hand in Glove,The Smiths,1983.0,"happy, calm, sad, calm",https://open.spotify.com/track/2JZu2ny6Et9wFic99sMF7x
+124,Led Zeppelin,Rock,Dazed and Confused,Led Zeppelin,1969.0,"sad, calm, fearful",https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy
+125,Soundgarden,Rock,My Wave,Superunknown ,1994.0,"calm, happy, fearful",https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw
+126,2Pac,Hip-Hop,Life Goes On,All Eyez on Me,1996.0,"calm, sad, fearful",https://open.spotify.com/track/1qZqFtSINOOmjYH1UE9805
+127,The Mission UK,Rock,Like a Child Again,Masque,,"happy, happy, sad, calm",https://open.spotify.com/track/7HSDX4TWqZP4vCyWr695zU
+128,The Jam,Rock,Town Called Malice,The Gift,1982.0,"calm, sad, calm",https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k
+129,The Notorious B.I.G.,Hip-Hop,I Got a Story to Tell,Life After Death,1997.0,"happy, calm, happy, happy, fearful",https://open.spotify.com/track/7zfmhBiUvGoHz76NO1d5bZ
+130,Kenny Chesney,Country,Song for the Saints,Songs for the Saints,2018.0,"happy, happy",https://open.spotify.com/track/0DqVcM4kkBSvVr90o5c96k
+131,Placebo,Rock,This Picture,Sleeping With Ghosts,2003.0,"calm, sad, calm, fearful",https://open.spotify.com/track/7pmahAnqScI4MjbQiZZqei
+132,Carrie Underwood,Country,Drinking Alone,Cry Pretty,2018.0,"happy, happy, sad, calm",https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2
+133,Elvis Presley,Rock,My Way,Aloha from Hawaii: Via Satellite,1973.0,"calm, calm, happy, sad",https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i
+134,Carrie Underwood,Country,"Jesus, Take the Wheel",Some Hearts,2005.0,"happy, sad, fearful",https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87
+135,Manic Street Preachers,Rock,Die In The Summertime,The Holy Bible,1994.0,"calm, sad, fearful",https://open.spotify.com/track/2KjsA4OKrvpQcsxcl1fg1i
+137,Reba McEntire,Country,If I Had Only Known,For My Broken Heart,1991.0,"calm, sad, calm",https://open.spotify.com/track/6rf0Kgia2yt5j80glOBzpB
+138,Bauhaus,Rock,Burning from the Inside,Burning from the Inside,1983.0,"sad, sad, calm, fearful",https://open.spotify.com/track/4ECbVmnFYISFVtJa2RU3N2
+139,Nirvana,Rock,Pennyroyal Tea,In Utero,1993.0,"calm, sad, fearful",https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu
+140,Tarrus Riley,Reggae,Karma,Cardiac Strings Riddim,,"happy, happy, happy, sad, calm, fearful",https://open.spotify.com/track/4HjJcFdRHa3Ju3GdBCJFSu
+141,Nickelback,Rock,Someday,The Long Road,2003.0,"calm, sad",https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ
+142,50 Cent,Hip-Hop,Candy Shop,The Massacre,2005.0,"happy, happy, calm",https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh
+143,Willie Nelson,Country,Seven Spanish Angels,Half Nelson,1984.0,"calm, happy, sad, sad, fearful",https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ
+144,Burning Spear,Reggae,Jah No Dead,Rockers (Original Soundtrack Recording),,"sad, fearful",https://open.spotify.com/track/2akQOBCb34sJTUMkpYO5Tm
+145,The Who,Rock,I Can See for Miles,The Who Sell Out,1967.0,"calm, happy, fearful",https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn
+146,The Smiths,Rock,How Soon Is Now?,Hatful of Hollow,1985.0,"calm, sad, fearful",https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU
+148,The Charlatans,Rock,Plastic Machinery,Different Days,2017.0,"sad, sad",https://open.spotify.com/track/1Tdoh6qS6goUmgs3ly1YVY
+149,The Sisters of Mercy,Rock,Alice,Some Girls Wander by Mistake,,"calm, fearful",https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd
+150,Black Uhuru,Reggae,Happiness,Sinsemilla,,"happy, happy",https://open.spotify.com/track/3ExFkX3HcjotNBQAA8lmMZ
+151,Wu-Tang Clan,Hip-Hop,Gravel Pit,The W,2000.0,"happy, fearful",https://open.spotify.com/track/5ATV1iQtlQThdBBbb7srw8
+152,Hank Williams,Country,Long Gone Lonesome Blues,Moanin’ The Blues,,"calm, sad",https://open.spotify.com/track/1jy7k4URSRJeO0N2aMzj5R
+153,Garnett Silk,Reggae,Watch Over Our Shoulders,Lord Watch Over Our Shoulders,,"calm, calm, happy, sad, fearful",https://open.spotify.com/track/3uHrif1Eq14gExZePotyZz
+154,Maxi Priest,Reggae,That Girl,The Best of Shaggy,,"happy, calm",https://open.spotify.com/track/2NFTEx9YLvWs4fWgKD0mZ9
+155,Placebo,Rock,Meds,Meds,2006.0,"calm, sad, fearful",https://open.spotify.com/track/2jMs4MwSFGWAyPp8JEOrEE
+156,Nirvana,Rock,Polly,Nevermind,1991.0,"calm, sad, sad, fearful",https://open.spotify.com/track/3tlXDvaNrrOmdvG0XVUOcv
+157,The Cure,Rock,A Letter to Elise,Wish,1992.0,"calm, sad, calm, fearful",https://open.spotify.com/track/4DdXOLc1VMAY34ourCn1Xa
+158,The Church,Rock,You’re Still Beautiful,Gold Afternoon Fix,,"calm, sad, calm, fearful",https://open.spotify.com/track/4V9q1EPM3aMsjEi2720hcC
+159,Nirvana,Rock,Rape Me,In Utero,1993.0,"sad, fearful",https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6
+160,The Sundays,Rock,What Do You Think?,Blind,1992.0,"calm, fearful",https://open.spotify.com/track/07AEKzqAeDIlRjjIycU2Rh
+161,Miranda Lambert,Country,Little Red Wagon,Platinum,2014.0,"calm, calm, calm, fearful",https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy
+163,The Mighty Diamonds,Reggae,Them Never Love Poor Marcus,When the Right Time Come (I Need a Roof),,"happy, sad, fearful",https://open.spotify.com/track/4P84gj6mAnghDK52IeYoaX
+164,Bob Marley & The Wailers,Reggae,Redemption Song,Uprising,1979.0,"calm, happy, sad, fearful",https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3
+165,The Mission UK,Rock,Like A Hurricane,The First Chapter,,"happy, calm, calm, calm",https://open.spotify.com/track/1ZCZMuS0QsNbTvW8e3D5VT
+166,N.W.A,Hip-Hop,I Ain’t tha 1,Straight Outta Compton,1988.0,"happy, sad, fearful",https://open.spotify.com/track/4YT8aYraXHbVxYeupvChSv
+167,UB40,Reggae,Cherry Oh Baby,Labour of Love,,"calm, calm",https://open.spotify.com/track/1HjENSMpxb14fBU27GrAKu
+168,Catatonia,Rock,Part Of The Furniture,International Velvet,,"happy, calm, happy, sad, calm",https://open.spotify.com/track/3lgdKUuukLRcFOlxu0T9Ux
+169,Hank Williams,Country,I’m So Lonesome I Could Cry,Moanin’ The Blues,1949.0,"calm, sad",https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF
+170,Soundgarden,Rock,Searching with My Good Eye Closed,Badmotorfinger,1991.0,"calm, happy, calm, happy",https://open.spotify.com/track/1yZgBTaMIMNbGFWnzi2QNl
+171,Shania Twain,Country,Poor Me,Now,2017.0,sad,https://open.spotify.com/track/0lwnqINENtZoQsH0bOl7gO
+172,The Rolling Stones,Rock,Ruby Tuesday,Between the Buttons,1967.0,"calm, sad",https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT
+174,Pearl Jam,Rock,Yellow Ledbetter,Lost Dogs,,"calm, sad, fearful",https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M
+175,Damian Marley,Reggae,Speak Life,Stony Hill,2017.0,"happy, sad, calm",https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv
+176,Placebo,Rock,Too Many Friends,Loud Like Love,2013.0,"happy, sad, fearful",https://open.spotify.com/track/70oAGzGuvuHcFcoV96oTMY
+177,J. Cole,Hip-Hop,No Role Modelz,2014 Forest Hills Drive,2014.0,"calm, happy, sad, calm, fearful",https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr
+178,Led Zeppelin,Rock,Rock and Roll,Led Zeppelin IV,1971.0,"happy, happy, calm, happy, sad",https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD
+179,Wu-Tang Clan,Hip-Hop,Triumph,Wu-Tang Forever,1997.0,"happy, happy, sad, fearful",https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw
+180,Snoop Dogg,Hip-Hop,Doggy Dogg World,Doggystyle,1993.0,"happy, fearful",https://open.spotify.com/track/5HCxyNfUA6DMJtIHavfJnw
+182,Creed,Rock,With Arms Wide Open,Human Clay,1999.0,"happy, happy, calm",https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs
+183,Nickelback,Rock,If Everyone Cared,All the Right Reasons,,"happy, calm, calm, happy, calm",https://open.spotify.com/track/0SRqIW98aSU2w3pAdKUMGB
+184,Jah Cure,Reggae,Before I Leave,World Cry,,"happy, sad, calm",https://open.spotify.com/track/5KR0DZUMq6bteyjDb7LDOg
+186,Run-D.M.C.,Hip-Hop,Hard Times,Run-D.M.C.,1983.0,"happy, sad, fearful",https://open.spotify.com/track/0AEDeskXKRo2E0r7ISoMAy
+188,Martina McBride,Country,Reckless,Reckless,2016.0,"happy, happy, sad, calm",https://open.spotify.com/track/7pSGYuXSzH9nzRNNzW3uzt
+189,Shania Twain,Country,From This Moment On,Come On Over,1998.0,"happy, calm",https://open.spotify.com/track/3iwrONBUleCyO5vr9xZKwj
+190,Alan Jackson,Country,I Want To Stroll Over Heaven With You,Precious Memories,2006.0,"calm, calm",https://open.spotify.com/track/6zBvnHbKJgNxZgJQdNfupl
+192,De La Soul,Hip-Hop,Plug Tunin (Last Chance to Comprehend),3 Feet High and Rising,,"happy, happy",https://open.spotify.com/track/4SMrx5BmR4F4IJkxAN1oCy
+193,De La Soul,Hip-Hop,Millie Pulled a Pistol on Santa,De La Soul is Dead,1991.0,"calm, happy, sad, calm, fearful",https://open.spotify.com/track/7J59BVihv9RRuaSj5d3tMD
+194,George Strait,Country,Ocean Front Property,Ocean Front Property,1986.0,"calm, calm, happy, calm",https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII
+195,Catatonia,Rock,Strange Glue,International Velvet,,"calm, happy, sad, fearful",https://open.spotify.com/track/6UefdYHEg3zJYP562umO7F
+196,Nickelback,Rock,Home,Feed the Machine,2017.0,"calm, sad, fearful",https://open.spotify.com/track/0vGMQBkmwMzg008A22InqS
+198,Alan Jackson,Country,A Million Ways to Die,A Million Ways To Die In The West (Original Motion Picture Soundtrack),2014.0,"calm, happy, sad, fearful",https://open.spotify.com/track/5s2p0YwJG47Y6AhyoDuhKV
+199,Alan Jackson,Country,Country Boy,Good Time,2008.0,"happy, calm, happy, happy, sad, calm",https://open.spotify.com/track/5RuCWf4bJC0rqA05b7nWfd
+200,Tim McGraw,Country,My Best Friend,A Place in the Sun,1999.0,"happy, sad, calm",https://open.spotify.com/track/5BeY2wY4rGFD1Q3aXO83Bv
+201,N.W.A,Hip-Hop,Express Yourself,Straight Outta Compton,1988.0,"happy, happy, fearful",https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8
+202,Bob Marley & The Wailers,Reggae,Satisfy My Soul,Kaya (Remastered),1978.0,"happy, happy, sad, calm",https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ
+203,Willie Nelson,Country,Shotgun Willie,Shotgun Willie,,"calm, calm",https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD
+204,Snoop Dogg,Hip-Hop,Gin and Juice,Doggystyle,1994.0,"happy, calm, happy, happy",https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0
+205,The Beatles,Rock,Norwegian Wood (This Bird Has Flown),Rubber Soul,1965.0,"calm, calm, sad, calm",https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by
+206,Ice Cube,Hip-Hop,Good Cop Bad Cop,Death Certificate 25th Anniversary ,2017.0,"happy, happy, fearful",https://open.spotify.com/track/2Ze19WJKgHCTClN6DhqZL6
+207,Jimmy Cliff,Reggae,I Can See Clearly Now,Higher & Higher,,"happy, happy",https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp
+208,N.W.A,Hip-Hop,Niggaz 4 Life,Efil4zaggin,1991.0,"calm, happy, fearful",https://open.spotify.com/track/0y0IhcBx3C1oEMtL4oFkBp
+209,The Rolling Stones,Rock,Miss You,Some Girls,1978.0,"sad, calm",https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR
+210,Catatonia,Rock,Lost Cat,Way Beyond Blue,1996.0,"calm, sad, sad, fearful",https://open.spotify.com/track/7kWb7zsCNiOLYk93zA5wLe
+211,Stone Temple Pilots,Rock,Still Remains,Purple,1994.0,"happy, sad, calm",https://open.spotify.com/track/0vDSbxxAm67GWHYueykkpc
+212,Snoop Dogg,Hip-Hop,Signs,R&G (Rhythm & Gangsta): The Masterpiece,2004.0,"sad, sad, calm, fearful",https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO
+213,J. Cole,Hip-Hop,Apparently,2014 Forest Hills Drive,2014.0,"happy, happy, sad, calm",https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1
+214,N.W.A,Hip-Hop,Gangsta Gangsta,Straight Outta Compton,1988.0,"happy, happy, fearful",https://open.spotify.com/track/1pOIpxfrQ8AszXZdKR3aH3
+215,Tarrus Riley,Reggae,Far away,,,"happy, happy, calm",https://open.spotify.com/track/5daTaOAZHrw7NdH66WLk8c
+216,The Jam,Rock,Mr. Clean,All Mod Cons,1978.0,"happy, happy, sad, fearful",https://open.spotify.com/track/6r3tsJ746xXDzVVsWahGvD
+217,Miranda Lambert,Country,Mama’s Broken Heart,Four the Record,2013.0,"calm, happy, sad",https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4
+218,Catatonia,Rock,"Dazed, Beautiful And Bruised",Equally Cursed and Blessed,,"calm, happy, fearful",https://open.spotify.com/track/6sb7MYMPuYd7MehCJg79LL
+220,Loretta Lynn,Country,In the sweet bye and bye,Hymns,,"happy, calm, happy, happy, calm",https://open.spotify.com/track/4GkklPPXl4HbAd3NATJH0X
+221,R.E.M.,Rock,Orange Crush,Green,1988.0,"calm, calm, happy, sad",https://open.spotify.com/track/7sNhXWrg9eW3qRqeuePaIC
+222,Kenny Rogers,Country,Crazy,Greatest Hits,,"happy, sad, calm",https://open.spotify.com/track/1Cg8HzQLJ4rjjXprgotjJj
+223,Luke Bryan,Country,Country Girl (Shake It for Me),Tailgates & Tanlines,2011.0,"happy, happy, calm",https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC
+224,N.W.A,Hip-Hop,She Swallowed It,Efil4zaggin,1991.0,"happy, happy",https://open.spotify.com/track/66ubrIQIY8wlHfqOdrl69i
+225,Reba McEntire,Country,Stronger Than the Truth,Stronger Than the Truth,2019.0,"calm, sad, fearful",https://open.spotify.com/track/3ccmlV6Lm8vkSBH79oROvG
+226,Kenny Rogers,Country,(Something Inside) So Strong,Something Inside So Strong,,"happy, sad",https://open.spotify.com/track/5jhipNIZCAWDaJFUVhAJCn
+227,Garnett Silk,Reggae,Jah Jah Is The Ruler,,,"happy, happy, sad, fearful",https://open.spotify.com/track/1L6NghTeZcjFKIQ6CnMsdU
+228,The Doors,Rock,Five to One,Waiting For The Sun,1968.0,"happy, sad, calm",https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe
+229,The Replacements,Rock,Favorite Thing,Let It Be ,1984.0,"happy, sad, calm, fearful",https://open.spotify.com/track/7iK2oc847jpFzvSZwoytaZ
+230,David Bowie,Rock,Dollar Days,★ (Blackstar),2016.0,"calm, sad, calm, fearful",https://open.spotify.com/track/1k5GEEuEoBiklGgmQcD62s
+231,The Church,Rock,A New Season,Starfish,1988.0,"happy, calm, calm, happy, sad",https://open.spotify.com/track/1TVGASrURZYVT9dC3M1gFK
+232,Faith Hill,Country,Piece of My Heart,Take Me As I Am,,"calm, happy, sad, calm, fearful",https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88
+233,Rita Marley,Reggae,So much things to say,Sings Bob Marley... And Friends,,"happy, sad, fearful",https://open.spotify.com/track/2ptWusjt2B8WmeQ5winYZw
+234,The Kinks,Rock,David Watts,Something Else by the Kinks,1967.0,"sad, sad, calm, fearful",https://open.spotify.com/track/1XvpHAv77HewmLICqHj0y2
+235,John Denver,Country,Follow Me,Take Me to Tomorrow,,"sad, calm",https://open.spotify.com/track/4MPh6lOj3FhHVdMRqJ2dj3
+237,The Doors,Rock,Roadhouse Blues,Morrison Hotel,1970.0,"happy, calm, happy",https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw
+238,Dolly Parton,Country,Girl in the Movies,Dumplin’ (Original Motion Picture Soundtrack),2018.0,"happy, happy, calm, happy",https://open.spotify.com/track/0c0myGBE4tomCo74Ipyr4G
+239,50 Cent,Hip-Hop,Big Rich Town,Power (Soundtrack from the Starz Original Series),2014.0,"happy, calm, happy, sad",https://open.spotify.com/track/4BnFtKaBTYJ07sosJsTjdU
+240,David Bowie,Rock,“Heroes”,“Heroes”,1977.0,"happy, calm, happy, sad, calm",https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z
+241,Jimmy Cliff,Reggae,Hakuna Matata,Rhythm of the Pride Lands,,"happy, calm, happy, calm, happy, sad",https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS
+242,Martina McBride,Country,Happy Girl,Evolution,1997.0,"happy, calm, happy",https://open.spotify.com/track/0uJBn6GxNfw36xp6bGlvt7
+243,Stone Temple Pilots,Rock,Interstate Love Song,Purple,1994.0,"calm, sad, sad, calm, fearful",https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3
+244,Soundgarden,Rock,Black Hole Sun,Superunknown ,1994.0,"sad, fearful",https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD
+245,Ziggy Marley,Reggae,Wild And Free,Wild and Free,,"calm, sad, fearful",https://open.spotify.com/track/4LKVJmI7C8UVYiFJG2EzlH
+246,Post Malone,Hip-Hop,No Option,Stoney (Deluxe),2016.0,"happy, happy, happy",https://open.spotify.com/track/6M0IsaUX4GNyto4niSegfI
+247,Desmond Dekker,Reggae,(Poor Mi) Israelites,This Is Desmond Dekker,,"sad, sad, fearful",https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0
+248,Kenny Chesney,Country,Get Along,Songs for the Saints,2018.0,"happy, calm, happy, sad, calm",https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7
+249,The Sundays,Rock,Goodbye,Blind,1992.0,"calm, calm, sad, sad, fearful",https://open.spotify.com/track/4wbDALtjwuwBxtMgjuumoi
+250,Loretta Lynn,Country,Wouldn’t It Be Great?,Wouldn’t It Be Great?,2018.0,"calm, calm, sad, fearful",https://open.spotify.com/track/2ocyPDgdR4gZ63zVfTdPe7
+251,Steel Pulse,Reggae,Ku Klux Klan,Handsworth Revolution,,"sad, fearful",https://open.spotify.com/track/1ViW8CWCiUff8iwlSpeI1r
+252,​​blink-182,Rock,Stay Together for the Kids,Take Off Your Pants and Jacket,2002.0,"calm, sad, fearful",https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg
+253,Desmond Dekker,Reggae,Hippopotamus,King of Ska: Greatest Hits,,"happy, fearful",https://open.spotify.com/track/7z3wZfiSGXdcIZCqdUnfSt
+254,The Mighty Diamonds,Reggae,Them never love poor marcus - 2001 digital remaster,,,"sad, sad, fearful",https://open.spotify.com/track/5Vx2EdX5X27EAHnXAcPVnW
+255,Placebo,Rock,Without You I’m Nothing,Without You I’m Nothing,1998.0,sad,https://open.spotify.com/track/3RQndQlG5xUt6dzINPh4yI
+256,Loretta Lynn,Country,Lay Me Down,Full Circle,2016.0,"calm, sad, calm, fearful",https://open.spotify.com/track/0HfctMUdPTxgtwbmO8Viyr
+257,The Mission UK,Rock,Beyond the Pale,Children,,"calm, sad, sad, calm",https://open.spotify.com/track/5rAJIvrdO13vS14eQlWE3V
+258,Reba McEntire,Country,I’m a Survivor,Greatest Hits Volume III: I’m a Survivor,2001.0,"happy, happy, sad, calm",https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn
+259,Johnny Cash,Country,Jackson,Carryin’ On With Johnny Cash And June Carter,1967.0,"sad, calm",https://open.spotify.com/track/5fcxVCOtfesNzI2n4Y4kiJ
+260,The Sundays,Rock,A Certain Someone,"Reading, Writing, and Arithmetic ",1990.0,"happy, happy, happy",https://open.spotify.com/track/6MJKD4yww06r6AskfnnMRQ
+261,Shaggy,Reggae,I Got You,,2016.0,"happy, happy, calm",https://open.spotify.com/track/5aR34Thto6jAjzXbe8xEg3
+262,Carrie Underwood,Country,Love Wins,Cry Pretty,2018.0,"happy, sad, sad, fearful",https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR
+263,Wyclef Jean,Hip-Hop,Diallo,The Ecleftic 2 Sides II a Book,2000.0,"calm, happy, sad, sad, fearful",https://open.spotify.com/track/21FjKQQHLuF5jMw5F83Gb9
+264,The Kinks,Rock,Picture Book,The Kinks Are The Village Green Preservation Society,1968.0,"calm, calm",https://open.spotify.com/track/3MCtMGs10m56BVtCZKk1wp
+265,R.E.M.,Rock,(Don’t Go Back To) Rockville,Reckoning,1984.0,"sad, calm, fearful",https://open.spotify.com/track/5OshTiUUBzCaD8N9cUysdx
+266,Garnett Silk,Reggae,Complain,Give I Strength,,"happy, happy, sad, fearful",https://open.spotify.com/track/0XBC4Yf0gOKAI7YSU9NVF8
+267,Martina McBride,Country,I’m Gonna Love You Through It,Eleven,2011.0,"calm, happy, sad, calm",https://open.spotify.com/track/4GwbSrCJFRze2tK4H12Zew
+268,The Jam,Rock,In the City,In the City,1977.0,"sad, fearful",https://open.spotify.com/track/11rNOWv4nRedvpiyyJ29f0
+269,The Who,Rock,The Kids Are Alright,My Generation,1965.0,"sad, sad",https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj
+270,Elvis Presley,Rock,All Shook Up,Elvis’ Golden Records,1957.0,"happy, happy, calm, fearful",https://open.spotify.com/track/6A28sLdLOf9vohN5LVl5KR
+272,R.E.M.,Rock,Man on the Moon,Automatic for the People,1992.0,"happy, happy, calm",https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s
+273,Pearl Jam,Rock,Mind Your Manners,Lightning Bolt,2013.0,"sad, fearful",https://open.spotify.com/track/2PdxbK3d0ZS58dD8jRqR6L
+274,Eminem,Hip-Hop,The Real Slim Shady,The Marshall Mathers LP,2000.0,"happy, fearful",https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR
+275,The Notorious B.I.G.,Hip-Hop,Big Poppa,Ready to Die,1995.0,"happy, happy, calm",https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww
+276,Radiohead,Rock,Weird Fishes/Arpeggi,In Rainbows,2007.0,"calm, sad, sad, calm",https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S
+277,The Church,Rock,Under the Milky Way,Starfish,1988.0,"calm, calm, sad, calm",https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2
+278,Shania Twain,Country,Honey I’m Home,Come On Over,,"calm, sad, fearful",https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh
+279,Nirvana,Rock,Lounge Act,Nevermind,1991.0,"calm, sad, fearful",https://open.spotify.com/track/7glld4kxYHp61zIPtSVHNk
+280,Faith Hill,Country,Just to Hear You Say That You Love Me,Faith,,"calm, calm",https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU
+281,Buju Banton,Reggae,Bonafide Love (feat. Wayne Wonder),Mr. Mention,,"happy, happy, calm",https://open.spotify.com/track/6JrtsOaJNTwPUIY414yaCb
+282,Drake,Hip-Hop,Marvin’s Room,Take Care,2011.0,"happy, sad, calm, fearful",https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl
+283,Creed,Rock,Are You Ready?,Human Clay,1999.0,"happy, happy, sad",https://open.spotify.com/track/2DZuw7l7616rrJmI7GMRjA
+284,Inner Circle,Reggae,Games People Play,Reggae Dancer,,"calm, happy, calm, sad, sad, calm, fearful",https://open.spotify.com/track/6IzmhQOhzgvo2tnRhYjAeO
+285,Inner Circle,Reggae,Looking for a Better Way,Bad Boys,,"happy, calm, happy, happy, sad, calm",https://open.spotify.com/track/3swfmxCurvYHEm8zsgb6sP
+286,Hank Williams,Country,Move It On Over,Memorial Album,1947.0,"happy, sad, fearful",https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7
+287,Steel Pulse,Reggae,Chant A Psalm,True Democracy,,"happy, happy, sad",https://open.spotify.com/track/6nLASCk64Sz9iKDdBHY9Sz
+288,Alan Jackson,Country,Like Red On A Rose,Like Red On A Rose,2006.0,"happy, calm, calm",https://open.spotify.com/track/1ayFArNqsYgGT8gWWSscTD
+289,The Replacements,Rock,Skyway,Pleased to Meet Me,1987.0,"calm, sad, calm",https://open.spotify.com/track/1brtRz9XgEp1LifkL8z4wb
+290,Nickelback,Rock,Must Be Nice,Feed the Machine,2017.0,"happy, happy, fearful",https://open.spotify.com/track/3LHFVQwFLoFLJRd1AFbPTZ
+291,The Church,Rock,Reptile,Starfish,1988.0,"calm, sad, fearful",https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT
+292,The Notorious B.I.G.,Hip-Hop,Juicy,Ready to Die,1994.0,happy,https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX
+293,Soundgarden,Rock,Limo Wreck,Superunknown ,1994.0,"happy, sad, sad, fearful",https://open.spotify.com/track/6WpTIA7S7XIVAkF7pXSm0Y
+294,The Cure,Rock,Lullaby,Disintegration,1989.0,"calm, sad, sad, fearful",https://open.spotify.com/track/4d4oXk7O2lEhZ83ivV93li
+295,The Rolling Stones,Rock,Beast of Burden,Some Girls,1978.0,"happy, sad, calm",https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so
+296,N.W.A,Hip-Hop,"Findum, Fuckum & Flee",Efil4zaggin,1991.0,"happy, happy, fearful",https://open.spotify.com/track/3olmwmRZ967NWmnenc5SEY
+297,Ice Cube,Hip-Hop,Why We Thugs,"Laugh Now, Cry Later",2006.0,"calm, happy, fearful",https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt
+298,Hank Williams,Country,"Cold, Cold Heart",Memorial Album,1951.0,"calm, sad, calm, fearful",https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ
+299,2Pac,Hip-Hop,Hit ’Em Up,Greatest Hits,1996.0,"happy, fearful",https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf
+300,Drake,Hip-Hop,"Hold On, We’re Going Home",Nothing Was the Same,2013.0,"happy, calm, calm",https://open.spotify.com/track/6jdOi5U5LBzQrc4c1VT983
+301,Tim McGraw,Country,Don’t Take the Girl,Not a Moment Too Soon,1994.0,"calm, sad, sad, calm",https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2
+302,Shania Twain,Country,Because Of You,Now,2017.0,"happy, happy, calm",https://open.spotify.com/track/4xIrR6Kg74Ymp4ysYGcHp4
+303,Radiohead,Rock,Burn the Witch,A Moon Shaped Pool,2016.0,"happy, sad, fearful",https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR
+304,The Mighty Diamonds,Reggae,Country Living,Ice on Fire,,"happy, happy, calm, calm",https://open.spotify.com/track/4J7TfPzZVcqc80MSvUTHVw
+305,The Charlatans,Rock,Hey Sunrise,Different Days,2017.0,"happy, calm, calm",https://open.spotify.com/track/7tygrqcf49swZdKBs0h2yb
+306,The Notorious B.I.G.,Hip-Hop,One More Chance,Ready to Die,1994.0,"happy, happy, fearful",https://open.spotify.com/track/2DnXXNkr3YQICQqdg9NH9F
+307,Maxi Priest,Reggae,Wild World,Maxi,,"calm, sad, calm",https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ
+308,Elvis Presley,Rock,Hound Dog,Elvis’ Golden Records,1956.0,"happy, sad, fearful",https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX
+309,Bauhaus,Rock,Double Dare,In the Flat Field,1980.0,"happy, happy, sad",https://open.spotify.com/track/3zAkC5zINEpRwn5FaeKNSn
+310,Wyclef Jean,Hip-Hop,Million Voices,Carnival Vol. II - Memoirs of an Immigrant,,"happy, sad",https://open.spotify.com/track/0FYWUJgdZR8Rk6sHyxY1F9
+311,​​blink-182,Rock,Bored to Death,California,2016.0,"happy, happy, calm, happy, sad, sad",https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj
+312,De La Soul,Hip-Hop,The Bizness,Stakes Is High,1996.0,"happy, happy, fearful",https://open.spotify.com/track/22wlZ0k1c3BSZuZpHkqAnl
+313,Lucky Dube,Reggae,Feel Irie,Trinity,,"happy, happy, happy, calm",https://open.spotify.com/track/7LKRZBr3cOhEyHCWsWeZg1
+314,The Cure,Rock,Just Like Heaven,"Kiss Me, Kiss Me, Kiss Me",1987.0,"calm, sad, calm",https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk
+315,Pearl Jam,Rock,Elderly Woman Behind the Counter in a Small Town,Vs.,1993.0,"calm, sad, calm",https://open.spotify.com/track/5lHgBqh9VwAAzQma55gHRY
+316,Maxi Priest,Reggae,Believe In Love,2 the Max,,"calm, happy, sad, calm",https://open.spotify.com/track/0CgCLE7ecxlYojeP5SPLQd
+317,50 Cent,Hip-Hop,My Life,Street King Immortal,2012.0,"sad, fearful",https://open.spotify.com/track/2GoOioZVtOF1iMYfnzkreg
+318,Desmond Dekker,Reggae,007 (Shanty Town),King of Kings,,"happy, sad",https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6
+319,Nickelback,Rock,If Today Was Your Last Day,Dark Horse,2008.0,"happy, calm, sad",https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi
+320,Garnett Silk,Reggae,It’s Growing,,,"happy, happy, happy, sad, calm",https://open.spotify.com/track/10WzihaZhGPaWBjJIEd2cf
+321,John Denver,Country,Sunshine on My Shoulders,"Poems, Prayers & Promises",1971.0,"calm, happy, calm",https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND
+322,Drake,Hip-Hop,HYFR,Take Care,2012.0,"calm, sad, calm, fearful",https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4
+323,Pearl Jam,Rock,Even Flow,Ten,1992.0,sad,https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei
+324,Carrie Underwood,Country,Backsliding,Cry Pretty,2018.0,"calm, happy, sad, calm",https://open.spotify.com/track/0pNA563kEMCfhMYRVQGH4Y
+325,De La Soul,Hip-Hop,I Am I Be,Buhloone Mindstate,1993.0,"calm, happy, sad, sad, fearful",https://open.spotify.com/track/4JtyhaCvPL7fSXuUoQ1Xsj
+326,Nickelback,Rock,Savin’ Me,All the Right Reasons,2006.0,"sad, calm",https://open.spotify.com/track/2BoWXJfClbDQkZCZsE0Ru7
+327,Merle Haggard,Country,One Day At A Time,Songs For The  Mama That Tried,1981.0,"calm, sad",https://open.spotify.com/track/6MIXe1rXmhGPZgS3ObUpXP
+328,Kenny Chesney,Country,The Good Stuff,"No Shoes, No Shirt, No Problems",2002.0,"calm, sad, calm",https://open.spotify.com/track/1sR3kJi14jA8Gau3a0yXAo
+329,The Who,Rock,Love Reign O’er Me,Quadrophenia,1973.0,"calm, sad, calm",https://open.spotify.com/track/4Mqs0h95KAeNiGp7u4udlt
+330,Inner Circle,Reggae,Sweat (A La La La La Song),,,"happy, happy, calm",https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J
+331,Dolly Parton,Country,Red Shoes,Dumplin’ (Original Motion Picture Soundtrack),2018.0,"happy, calm, happy",https://open.spotify.com/track/4nHV7YyK8KruEtie7JZVpJ
+332,Willie Nelson,Country,Always on My Mind,Always on My Mind,1982.0,"calm, sad, calm",https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4
+333,Martina McBride,Country,Everybody Wants To Be Loved,Reckless,2016.0,"happy, calm",https://open.spotify.com/track/4ualznjft8pjVqh7ULfECU
+334,Coolio,Hip-Hop,"Mama, I’m In Love Wit A Gangsta",It Takes A Thief,,"calm, happy, sad, calm, fearful",https://open.spotify.com/track/0jiy1PDt8XbV8Y5B9EDbNw
+335,UB40,Reggae,Here I Am (Come And Take Me),Labour of Love II,1990.0,"sad, calm, fearful",https://open.spotify.com/track/6YR2MkzMhojHBmW1TbXtZO
+336,R.E.M.,Rock,Nightswimming,Automatic for the People,1992.0,"calm, calm, sad",https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys
+337,Miranda Lambert,Country,We Should Be Friends,The Weight of These Wings,2016.0,"calm, calm, fearful",https://open.spotify.com/track/66hAuG73iyknIMW4icfEGg
+338,Dr. Dre,Hip-Hop,Talk About It,Compton,2015.0,happy,https://open.spotify.com/track/44uZZ2tn0ucKwFrqJdhLTE
+339,Loretta Lynn,Country,You Ain’t Woman Enough (to Take My Man),You Ain’t Woman Enough,,"happy, calm, fearful",https://open.spotify.com/track/5XOM6Neo5IACRMhvd2ibKA
+340,Willie Nelson,Country,God’s Problem Child,God’s Problem Child,2017.0,"calm, sad, sad, fearful",https://open.spotify.com/track/43H6Yu7qHvJBy9YJahMrbT
+341,Snoop Dogg,Hip-Hop,Peaches N Cream,BUSH,2015.0,"happy, happy, sad, calm",https://open.spotify.com/track/4lcpWCMFXNhvqNIQhB6yDv
+342,Shaggy,Reggae,Only Love,,,"happy, happy, sad, calm",https://open.spotify.com/track/1QLH6vXRH2DrLohuY3U3Vb
+344,Reba McEntire,Country,She Thinks His Name Was John,Read My Mind,1994.0,"calm, sad, calm",https://open.spotify.com/track/35yVdjCKWDFbHMbH9fIN5p
+345,Carrie Underwood,Country,Dirty Laundry,Storyteller,2016.0,"sad, calm, fearful",https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU
+346,Pearl Jam,Rock,Nothingman,Vitalogy,1994.0,"calm, calm, happy, sad, fearful",https://open.spotify.com/track/74kd56Y1oNbQVEQnMdO9LH
+347,J. Cole,Hip-Hop,MIDDLE CHILD,NOW That’s What I Call Music! 70 [US],2019.0,"happy, sad, fearful",https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8
+348,Damian Marley,Reggae,Slave Mill,Stony Hill,2017.0,"happy, sad, sad, fearful",https://open.spotify.com/track/4hvhYBWFbNfBHk5OGAFqmw
+349,Kenny Chesney,Country,Somewhere With You,Hemingway’s Whiskey,2010.0,"calm, sad, calm",https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH
+350,Wyclef Jean,Hip-Hop,Anything Can Happen,The Carnival,1997.0,"calm, calm, happy, sad, fearful",https://open.spotify.com/track/1pdskdCwpfW0qw0swquHhn
+351,Faith Hill,Country,Wish For You,Fireflies,,"happy, calm, happy, happy, calm",https://open.spotify.com/track/7wDV6VoKGEWLRmIAU4e8gC
+352,Merle Haggard,Country,Big City,Big City,1981.0,"sad, fearful",https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8
+353,Inner Circle,Reggae,Have you ever seen the rain,Reggae Man,,"calm, sad, fearful",https://open.spotify.com/track/3hHASiBIkVaD3E8SdmKN2N
+354,Eminem,Hip-Hop,Lose Yourself,The Singles,2002.0,"happy, happy, fearful",https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ
+355,N.W.A,Hip-Hop,Dopeman,N.W.A. and the Posse,1987.0,"happy, happy, happy, fearful",https://open.spotify.com/track/4fukZMkYV1JgJ68NegVLtN
+356,Miranda Lambert,Country,To Learn Her,The Weight of These Wings,2016.0,"happy, sad, sad, calm",https://open.spotify.com/track/3l78vP424XB904B5MMmEdN
+357,Manic Street Preachers,Rock,The Intense Humming of Evil,The Holy Bible,1994.0,"calm, sad, fearful",https://open.spotify.com/track/67ilSU7Ryy6p6PJRU4jick
+358,Radiohead,Rock,All I Need,In Rainbows,2007.0,fearful,https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J
+359,The Mighty Diamonds,Reggae,Go Seek Your Rights,When the Right Time Come (I Need a Roof),,"calm, happy, sad, calm",https://open.spotify.com/track/2xFQsakov9qjV8aeLiDEVk
+360,David Bowie,Rock,Space Oddity,David Bowie/Space Oddity,1969.0,"happy, happy, sad, fearful",https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG
+361,Yellowman,Reggae,Mr. Chin,Duppy or Gunman,,"happy, happy, calm",https://open.spotify.com/track/3cXNNoCtVshMPGVX8C4GvY
+362,JAY-Z,Hip-Hop,Picasso Baby,Magna Carta... Holy Grail,2013.0,"happy, fearful",https://open.spotify.com/track/6DlJZmRXDfHzGzAVo1yjfP
+363,The Mighty Diamonds,Reggae,Shame & Pride,When the Right Time Come (I Need a Roof),,"happy, calm, sad, calm, fearful",https://open.spotify.com/track/43MDxELIVi7bswI7IX7fC7
+364,Lauryn Hill,Hip-Hop,Forgive Them Father,The Miseducation of Lauryn Hill,1998.0,"calm, fearful",https://open.spotify.com/track/2RPhXg9D4JOkryUznL0aaB
+365,Jimmy Cliff,Reggae,Sunshine in the Music,The Power and the Glory,,"happy, happy, sad, calm",https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9
+366,2Pac,Hip-Hop,Do for Love,R U Still Down? (Remember Me),1997.0,"happy, calm, fearful",https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq
+367,Burning Spear,Reggae,Old Marcus Garvey,Marcus Garvey,,"calm, sad",https://open.spotify.com/track/0vWEFmT888qnCZKUxhs8tH
+368,Steel Pulse,Reggae,Soldiers,Handsworth Revolution,1978.0,"sad, sad, fearful",https://open.spotify.com/track/3QEKA4uWSYH25kYJ0y5e3Q
+369,Led Zeppelin,Rock,Whole Lotta Love,Led Zeppelin II,1969.0,calm,https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8
+370,Bob Marley & The Wailers,Reggae,Jamming,Exodus,1977.0,"happy, calm",https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj
+371,Buju Banton,Reggae,Destiny,Inna Heights,,"happy, sad, fearful",https://open.spotify.com/track/2ZW0A9cFELkFsCT5UkWjkG
+372,Nirvana,Rock,The Man Who Sold the World,MTV Unplugged in New York,1994.0,"calm, calm, happy, sad",https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg
+373,The Replacements,Rock,Swingin Party,Tim,,"happy, calm, happy, happy",https://open.spotify.com/track/14g6foD6sxO1qgkDKuPgWv
+374,Lauryn Hill,Hip-Hop,Doo Wop (That Thing),The Miseducation of Lauryn Hill,1998.0,"calm, happy, calm, fearful",https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg
+375,Radiohead,Rock,Everything in Its Right Place,Kid A,2000.0,"calm, happy, calm",https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8
+376,Stone Temple Pilots,Rock,Big Empty,Purple,1994.0,"happy, calm, sad",https://open.spotify.com/track/2E6elGQS3KaKR7QdfzQXdP
+377,Shania Twain,Country,Man! I Feel like a Woman!,Come On Over,,"happy, happy",https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN
+378,Lauryn Hill,Hip-Hop,Everything is Everything,The Miseducation of Lauryn Hill,1999.0,"calm, calm, happy, sad, fearful",https://open.spotify.com/track/7t86fVeDAd63ThaR0ZkxXS
+380,Catatonia,Rock,Bulimic Beats,Equally Cursed and Blessed,1999.0,"calm, sad, sad, calm",https://open.spotify.com/track/589CNa070N8gi7LqV9o4bd
+381,George Strait,Country,I Can Still Make Cheyenne,Blue Clear Sky,1996.0,"sad, calm, fearful",https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi
+382,Damian Marley,Reggae,Grown & Sexy,Stony Hill,,"calm, happy, calm, fearful",https://open.spotify.com/track/410aZi1aRJhmNVUKn6NgjM
+383,Johnny Cash,Country,Folsom Prison Blues,Johnny Cash With His Hot and Blue Guitar,1955.0,"calm, sad, fearful",https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9
+384,Busta Rhymes,Hip-Hop,Calm Down,Calm Down: The Clash EP,2014.0,"happy, happy",https://open.spotify.com/track/72DuDVv06ZtKDceAlq40f2
+385,Creed,Rock,Rain,Full Circle,,"calm, sad, sad, fearful",https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU
+386,The Sisters of Mercy,Rock,Black Planet,First and Last and Always,1985.0,sad,https://open.spotify.com/track/0sAVYHgKRKG7k9akb7xnjE
+387,Creed,Rock,A Thousand Faces,Full Circle,,"calm, sad, fearful",https://open.spotify.com/track/5NnYhHDo5BxDkAXEerswYD
+388,Black Uhuru,Reggae,Plastic Smile,Showcase,,"happy, happy, sad, fearful",https://open.spotify.com/track/4P91MpL4CRiMQZuMbiErji
+389,Black Uhuru,Reggae,Chill Out,Chill Out,,"happy, sad, calm",https://open.spotify.com/track/3FSreul7HVKPmRowuIgbGK
+390,Martina McBride,Country,This One’s For The Girls,Martina,2003.0,"happy, calm, sad, calm",https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb
+391,Loretta Lynn,Country,Don’t Come Home A-Drinkin’,Wouldn’t It Be Great?,1967.0,"sad, calm, fearful",https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o
+392,Manic Street Preachers,Rock,She Is Suffering,The Holy Bible,1994.0,"sad, sad, calm, fearful",https://open.spotify.com/track/55ol0W7FtPHP3cC8qXm1xU
+393,Pink Floyd,Rock,Comfortably Numb,The Wall,1979.0,"calm, calm, sad, fearful",https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC
+394,The Church,Rock,Block,"Uninvited, Like the Clouds",,"calm, happy, sad, fearful",https://open.spotify.com/track/2RAaeE50Zd00cPqFvubmAN
+395,Peter Tosh,Reggae,You Can’t Blame the Youth,Equal Rights,,"happy, sad, sad, fearful",https://open.spotify.com/track/5qVw4nsXiglV9dOL8XNyiT
+397,The Rolling Stones,Rock,Let It Bleed,Let It Bleed,1969.0,"calm, calm",https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6
+398,Eminem,Hip-Hop,Rap God,The Marshall Mathers LP2,2013.0,"calm, happy, sad",https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k
+399,Kendrick Lamar,Hip-Hop,King Kunta,To Pimp a Butterfly,2015.0,"happy, calm, happy, fearful",https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O
+400,The Smiths,Rock,Bigmouth Strikes Again,The Queen Is Dead,1986.0,"happy, sad, sad, calm, fearful",https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p
+401,Yellowman,Reggae,Zunguzung,,,"happy, fearful",https://open.spotify.com/track/4jFbCNOhhxfbactm5QxsOb
+402,George Strait,Country,I Just Want To Dance With You,One Step At A Time,1998.0,"happy, calm",https://open.spotify.com/track/4cdAXfguhQHYFkvuuzye1m
+403,Hank Williams,Country,Ramblin’ Man,Ramblin’ Man,1954.0,"happy, sad, calm",https://open.spotify.com/track/4ztdfd8eTApixD6Aglhk1z
+404,The Who,Rock,My Generation,My Generation,1965.0,"calm, happy, happy",https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx
+405,Busta Rhymes,Hip-Hop,Woo Hah!! Got You All in Check,The Coming,1996.0,"happy, happy, fearful",https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS
+406,Jimmy Cliff,Reggae,Many Rivers to Cross,Jimmy Cliff,,"calm, happy, sad, sad",https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq
+407,Wyclef Jean,Hip-Hop,Sang Fezi,The Carnival,1997.0,"happy, calm",https://open.spotify.com/track/49CzHdhNiYKBGZeQ9eFjhA
+408,The Notorious B.I.G.,Hip-Hop,Suicidal Thoughts,Ready to Die,1994.0,"calm, sad, fearful",https://open.spotify.com/track/00t7QTffOR3SA3L1BvSQVq
+409,Nirvana,Rock,In Bloom,Nevermind,1992.0,"sad, fearful",https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq
+410,Shaggy,Reggae,If U Slip U Slide (You Could Be Mine),"Out Of Many, One Music",2013.0,"happy, happy, calm",https://open.spotify.com/track/62bwb2HoadNkXNVYojxYjJ
+412,Shaggy,Reggae,Church Heathen,Intoxication,,"calm, sad, fearful",https://open.spotify.com/track/5T0wNYAQ144JtjsAwttL5T
+413,Lucky Dube,Reggae,Slave,Slave,,sad,https://open.spotify.com/track/0xDfj7JZcYCIiUa55vqQuA
+415,The Mighty Diamonds,Reggae,I Need A Roof,The Mighty Diamonds Meets Don Carlos & Gold at the Channel 1 Studio,,"calm, calm",https://open.spotify.com/track/5M9JYhCEojXoMJbWa03i9F
+416,Soundgarden,Rock,Spoonman,Superunknown ,1994.0,"happy, sad, calm, fearful",https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt
+417,Lil Wayne,Hip-Hop,Uproar,Tha Carter V,2018.0,"happy, fearful",https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk
+418,Pearl Jam,Rock,Black,Ten,1991.0,"sad, calm, fearful",https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY
+419,The Doors,Rock,The Soft Parade,The Soft Parade,1969.0,"happy, happy, happy, sad, fearful",https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU
+420,Faith Hill,Country,Like We Never Loved At All,Fireflies,,"happy, sad, sad, calm, fearful",https://open.spotify.com/track/5tdbsJQ86BVvjmpTikVP7q
+421,Luke Bryan,Country,Drunk on You,Tailgates & Tanlines,,"happy, happy, sad, calm",https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF
+422,Bob Marley & The Wailers,Reggae,Turn Your Lights Down Low,Exodus,1977.0,"happy, calm",https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt
+423,Jah Cure,Reggae,Marijuana,Royal Soldier,2019.0,"happy, calm, sad",https://open.spotify.com/track/0OHUeNkpHvXKu0r8VvaL9y
+424,Nirvana,Rock,Something in the Way,Nevermind,1991.0,"sad, sad, calm",https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s
+425,Kanye West,Hip-Hop,No More Parties in LA,The Life of Pablo,2016.0,"calm, happy, sad, calm",https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99
+426,Elvis Presley,Rock,Blue Suede Shoes,Elvis Presley ,1956.0,"happy, happy, happy, calm, fearful",https://open.spotify.com/track/47gmoUrZV3w20JAnQOZMcO
+427,Kenny Chesney,Country,I Go Back,When the Sun Goes Down,2004.0,"calm, sad",https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6
+428,The Sundays,Rock,Skin & Bones,"Reading, Writing, and Arithmetic ",1990.0,"calm, happy, sad",https://open.spotify.com/track/2IJefgkjhakHkpU5Skoxu7
+429,Reba McEntire,Country,If You See Him / If You See Her,If You See Him,1998.0,"calm, sad, calm, fearful",https://open.spotify.com/track/4TxIFLRMUxNh4n9h4RLsaE
+430,De La Soul,Hip-Hop,Pain,and the Anonymous Nobody,2016.0,"happy, sad, sad",https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o
+431,Inner Circle,Reggae,Sweat,,,"happy, happy, calm",https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J
+432,Lauryn Hill,Hip-Hop,I Get Out,MTV Unplugged 2.0,,"happy, sad, sad, fearful",https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy
+433,Pink Floyd,Rock,The Great Gig in the Sky,The Dark Side of the Moon,1973.0,"happy, happy, sad, fearful",https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d
+434,Post Malone,Hip-Hop,Better Now,beerbongs & bentleys,2018.0,"calm, sad, calm",https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+435,2Pac,Hip-Hop,I Ain’t Mad At Cha,All Eyez on Me,1996.0,"happy, calm, happy, sad",https://open.spotify.com/track/70uktTEq3AiRQAtqdl20qG
+436,Drake,Hip-Hop,Back to Back,,2015.0,"happy, fearful",https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK
+437,Lauryn Hill,Hip-Hop,I Used to Love Him,The Miseducation of Lauryn Hill,1998.0,"calm, sad, sad",https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX
+438,2Pac,Hip-Hop,Me Against the World,Me Against the World,1995.0,"happy, fearful",https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V
+439,Drake,Hip-Hop,The Motto,Take Care,2011.0,"happy, fearful",https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa
+440,The Smiths,Rock,Some Girls Are Bigger Than Others,The Queen Is Dead,1986.0,"calm, happy, sad",https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5
+441,Garnett Silk,Reggae,Advantage,,,"sad, sad, fearful",https://open.spotify.com/track/6N4LphiIzmOJCcjqfDBbI9
+442,The Charlatans,Rock,There Will Be Chances,Different Days,2017.0,"happy, calm, happy, calm, calm",https://open.spotify.com/track/06q7JUjrZinnjeD2Vfpo3F
+443,Desmond Dekker,Reggae,007,This Is Desmond Dekker,,"happy, happy, sad, fearful",https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6
+444,Tarrus Riley,Reggae,Cool Me Down,Country Bus Riddim,2015.0,"happy, calm, happy, calm",https://open.spotify.com/track/5mYPByzLlUSpuSnQdAjiTI
+445,The Sundays,Rock,You’re Not the Only One I Know,"Reading, Writing, and Arithmetic ",1990.0,"calm, sad, calm, fearful",https://open.spotify.com/track/7BaxYnTazocAOK3istsW1z
+446,Maxi Priest,Reggae,If i gave my heart to you,Easy to Love,,"sad, calm, fearful",https://open.spotify.com/track/6Yz7YfKlok9ch9XBLIkr4x
+447,Burning Spear,Reggae,Christopher columbus,,,"happy, fearful",https://open.spotify.com/track/0VlY6K0THEYoHSuGB1dHAs
+448,Garth Brooks,Country,Papa Loved Mama,Ropin’ the Wind,1992.0,"calm, sad, fearful",https://open.spotify.com/track/7yiYeehjgF2lDeULV8brjL
+449,Tim McGraw,Country,Red Rag Top,Tim McGraw And The Dancehall Doctors,2002.0,"calm, sad, calm",https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC
+450,The Mission UK,Rock,Wasteland,God’s Own Medicine,,"calm, happy, sad, sad, fearful",https://open.spotify.com/track/7EoUQdpJJYo5xRdzX8wWUW
+451,Snoop Dogg,Hip-Hop,Murder Was the Case,Doggystyle,1993.0,"happy, sad, fearful",https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu
+452,The Cure,Rock,Pictures of You,Disintegration,1989.0,"calm, sad, calm",https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg
+453,Pearl Jam,Rock,Release,Ten,1991.0,"calm, calm, sad, sad",https://open.spotify.com/track/3xAka0D8585mDoShALnsd7
+454,JAY-Z,Hip-Hop,Tom Ford,Magna Carta... Holy Grail,2013.0,"happy, happy, happy",https://open.spotify.com/track/1PNGJBI1Lx0h8QCpkHKZLU
+455,Tarrus Riley,Reggae,Start A New,Reggae Gold 2009,,"sad, fearful",https://open.spotify.com/track/6YeHgYEdnqjKuI4eSvHhno
+456,Reba McEntire,Country,Does He Love You,Greatest Hits Volume Two,1993.0,"sad, fearful",https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA
+457,UB40,Reggae,Rat In My Kitchen,,,"happy, fearful",https://open.spotify.com/track/5rCpAwrWFRGpsqc8wVVhql
+458,Burning Spear,Reggae,Burning Reggae,Rasta Business,,"happy, happy",https://open.spotify.com/track/2SIGzEGQGDfE5cvAKNGhek
+459,Manic Street Preachers,Rock,A Design For Life,Everything Must Go,1996.0,"calm, sad",https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a
+460,The Notorious B.I.G.,Hip-Hop,Me & My Bitch,Ready to Die,1994.0,"happy, calm",https://open.spotify.com/track/0C5IKY0sXz4sg0hpx7HOz0
+461,Jah Cure,Reggae,Longing For,True Reflections...A New Beginning,,"sad, calm, fearful",https://open.spotify.com/track/4XvuRDrWteHQGLBOXbAkFZ
+462,Lauryn Hill,Hip-Hop,Superstar,The Miseducation of Lauryn Hill,1998.0,"sad, calm, fearful",https://open.spotify.com/track/4zSmsHur194jO2hGCTt6Hn
+463,The Notorious B.I.G.,Hip-Hop,Everyday Struggle,Ready to Die,1994.0,"happy, sad, fearful",https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B
+464,Snoop Dogg,Hip-Hop,Tha Shiznit,Doggystyle,1993.0,"happy, happy",https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm
+465,Yellowman,Reggae,I’m Getting Married,20 Super Hits,,"happy, calm",https://open.spotify.com/track/5oOQpAdZ1BHYAvF73Xs3Tj
+466,The Who,Rock,Won’t Get Fooled Again,Who’s Next,1971.0,"happy, happy, fearful",https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH
+467,Shania Twain,Country,When You Kiss Me,Up!,2003.0,"happy, calm, happy, calm",https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH
+468,The Notorious B.I.G.,Hip-Hop,Gimme the Loot,Ready to Die,1994.0,"calm, happy, fearful",https://open.spotify.com/track/1xIxMz1sNQ4b6svH1GuTtF
+469,Lauryn Hill,Hip-Hop,The Sweetest Thing,Lauryn Hill: Unreleased,1997.0,"calm, sad, calm",https://open.spotify.com/track/5My5YI9oqE9MZcHIrm38BJ
+470,Lauryn Hill,Hip-Hop,Ex-Factor,The Miseducation of Lauryn Hill,1998.0,"sad, sad, calm",https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe
+471,Jimmy Cliff,Reggae,Now and forever,,,"happy, sad, calm",https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg
+472,The Doors,Rock,Light My Fire,The Doors,1967.0,"happy, happy, happy, calm",https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R
+473,Dr. Dre,Hip-Hop,Medicine Man,Compton,2015.0,"sad, fearful",https://open.spotify.com/track/3hZnp7n8WI3UnnURw1i1DF
+474,Alan Jackson,Country,What A Friend We Have In Jesus,Precious Memories,2006.0,"happy, calm, sad, fearful",https://open.spotify.com/track/6pMnEX2iBcqQtUyIl1L6Oo
+475,George Strait,Country,Write This Down,Always Never The Same,1999.0,"calm, sad, calm",https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd
+476,JAY-Z,Hip-Hop,Family Feud,4:44,2017.0,"happy, happy, sad",https://open.spotify.com/track/6ku4gCfjdxmYpajNONAciN
+477,Wu-Tang Clan,Hip-Hop,Bring Da Ruckus,Enter the Wu-Tang (36 Chambers),1993.0,"happy, fearful",https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE
+478,Bauhaus,Rock,Crowds,In the Flat Field,1980.0,fearful,https://open.spotify.com/track/0OvQ6J6UqpKKonsAWdlpaL
+479,George Strait,Country,Give It Away,It Just Comes Natural,2006.0,"calm, sad, calm, fearful",https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m
+480,Nickelback,Rock,Animals,All the Right Reasons,2005.0,"happy, happy, sad, calm",https://open.spotify.com/track/2TeEhtmhMQmUyQJhnJNvAs
+481,Stone Temple Pilots,Rock,Wicked Garden,Core ,1992.0,"happy, sad, sad, fearful",https://open.spotify.com/track/7FblcKgEyo6zZjSMAnYpOX
+482,Merle Haggard,Country,That’s The Way Love Goes,That’s The Way Love Goes,1983.0,"happy, calm, calm",https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1
+483,J. Cole,Hip-Hop,Deja Vu,4 Your Eyez Only,2016.0,"happy, sad, calm, fearful",https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ
+484,​​blink-182,Rock,Blame It on My Youth,NINE,2019.0,"happy, happy, sad, fearful",https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG
+485,Pink Floyd,Rock,Dogs,Shine On,1977.0,"calm, sad, sad",https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG
+486,Catatonia,Rock,Dead From the Waist Down,Equally Cursed and Blessed,1999.0,"happy, calm, happy, sad, sad",https://open.spotify.com/track/7KGO0B6kB5j9Fmu2KpE8fV
+487,Elvis Presley,Rock,Heartbreak Hotel,Elvis’ Golden Records,1956.0,"happy, sad",https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio
+488,Miranda Lambert,Country,You Wouldn’t Know Me,The Weight of These Wings,2016.0,"happy, sad, sad, calm, fearful",https://open.spotify.com/track/0pKsJbEToQZDPgsQrjbi3v
+489,The Sundays,Rock,Here’s Where The Story Ends,"Reading, Writing, and Arithmetic ",1990.0,"calm, sad",https://open.spotify.com/track/67Tp0vRSc3yJU0z1UQMD7B
+490,Kanye West,Hip-Hop,FML,The Life of Pablo,2016.0,"calm, happy, sad, calm, fearful",https://open.spotify.com/track/30Zcjs7pgEkmJA1lEbGSWT
+491,Yellowman,Reggae,We Wish You A Reggae Christmas,"A Very, Very Yellow Christmas",1998.0,"happy, happy, calm, happy",https://open.spotify.com/track/4HfC5JdivpS0uwejFYsZ7L
+492,Willie Nelson,Country,Red Headed Stranger,Red Headed Stranger,1975.0,"calm, sad, fearful",https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi
+493,Garnett Silk,Reggae,Let It Flow,Silky Mood,,"happy, calm, happy, sad, calm",https://open.spotify.com/track/1br5DplTnm7iGB13QHd555
+494,The Sundays,Rock,My Finest Hour,"Reading, Writing, and Arithmetic ",1990.0,"calm, sad, sad, calm, fearful",https://open.spotify.com/track/4H5L27YcjYk0P1N6gx7x2S
+495,Wu-Tang Clan,Hip-Hop,Can It Be All So Simple / Intermission,Enter the Wu-Tang (36 Chambers),1993.0,"calm, happy",https://open.spotify.com/track/1Mi6uegC4pRxQZw1CB5Fk9
+496,Garth Brooks,Country,The Dance,Garth Brooks,1989.0,"calm, calm, sad, calm",https://open.spotify.com/track/08MhzVza8Qc4M172KZ37JT
+497,Catatonia,Rock,Karaoke Queen,Equally Cursed and Blessed,1999.0,"happy, calm, happy, sad",https://open.spotify.com/track/4uR8e9NpmiLU6XxF9heIxr
+498,Catatonia,Rock,Valerian,Equally Cursed and Blessed,,"calm, sad, sad, calm, fearful",https://open.spotify.com/track/3WEmdZS0byc3RfsTzCBdtI
+499,Shania Twain,Country,Forever and for Always,Up!,2003.0,"happy, sad, calm",https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip
+501,Ice Cube,Hip-Hop,Check Yo Self,The Predator,1993.0,"happy, fearful",https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma
+502,John Denver,Country,Calypso,Windsong,1975.0,"happy, sad, calm",https://open.spotify.com/track/2eD5bmknmcojiCxoKpvVTI
+504,The Sundays,Rock,Summertime,Static & Silence,1997.0,"happy, calm, sad, sad, calm",https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo
+505,Jah Cure,Reggae,All by myself,World Cry,,"calm, sad, fearful",https://open.spotify.com/track/5vsFrUZwzjdEQu5ChxezZ8
+506,Damian Marley,Reggae,There for You,Welcome to Jamrock,2005.0,"calm, happy, sad, calm",https://open.spotify.com/track/2iQzGiBMP2V6F3his5xnxH
+507,Coolio,Hip-Hop,Fantastic Voyage,It Takes A Thief,1994.0,"happy, calm, sad, fearful",https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k
+508,The Kinks,Rock,Victoria,Arthur (or the Decline and Fall of the British Empire),1969.0,"happy, calm",https://open.spotify.com/track/15mqVeWrB9bPHgI0s1Vq7w
+509,Rita Marley,Reggae,Who Can Be Against Us,Harambe (Working Together For Freedom),1982.0,"happy, happy, sad, fearful",https://open.spotify.com/track/4t4uF3niH6FZXpNTS0U0q7
+510,The Charlatans,Rock,Tellin’ Stories,Tellin’ Stories,,"calm, calm",https://open.spotify.com/track/6NDopp0RvOUyA6PCYO4JHX
+511,The Cure,Rock,Close to Me,The Head on the Door,1985.0,"calm, sad, fearful",https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA
+512,Run-D.M.C.,Hip-Hop,Jam Master Jay,Run-D.M.C.,1984.0,"happy, happy, sad",https://open.spotify.com/track/7fjxc2JxSx51qrydS7jXTU
+513,The Beatles,Rock,While My Guitar Gently Weeps,The Beatles (The White Album),1968.0,"sad, sad",https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O
+514,UB40,Reggae,I’ll Be On My Way,Who You Fighting For?,,"calm, sad",https://open.spotify.com/track/6kpAoHagoN0RL5FFRDENRV
+515,Martina McBride,Country,Independence Day,The Way That I Am,1993.0,"calm, sad, sad, fearful",https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf
+516,Jah Cure,Reggae,From My Heart,Heart and Soul Riddim,,"happy, happy, calm",https://open.spotify.com/track/04o7rJjibuxt2b93fgdlD3
+517,Ziggy Marley,Reggae,I Love You Too,Family Time,,"sad, calm",https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I
+518,The Who,Rock,Who Are You,Who Are You,1978.0,"happy, sad, calm, fearful",https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ
+519,The Smiths,Rock,The Boy with the Thorn in His Side,The Queen Is Dead,1985.0,"calm, sad, fearful",https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp
+520,Jah Cure,Reggae,Unconditional Love,World Cry,2010.0,"happy, happy, calm",https://open.spotify.com/track/5eReOqbysgLsqGp2ukMUYp
+521,Jimmy Cliff,Reggae,Vietnam,Jimmy Cliff,,sad,https://open.spotify.com/track/2fBoOkbf0qzw4y3jLTaNcB
+522,Wyclef Jean,Hip-Hop,It Doesn’t Matter,The Ecleftic 2 Sides II a Book,2000.0,"happy, calm, happy, calm, fearful",https://open.spotify.com/track/6ddqGDLc1OI1w6ZRkDPHdt
+523,Dr. Dre,Hip-Hop,Nuthin’ But a ‘G’ Thang,The Chronic,1992.0,"happy, happy",https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD
+524,The Charlatans,Rock,Weirdo,Between 10th and 11th,,"sad, fearful",https://open.spotify.com/track/5MT6JFRyOTEd1lbkwb0uzD
+525,Coolio,Hip-Hop,"1, 2, 3, 4 (Sumpin’ New)",Gangsta’s Paradise,1996.0,"happy, happy, happy, sad",https://open.spotify.com/track/2wPjoNKQAfEdgEYrPIBwAD
+526,Kenny Chesney,Country,American Kids,The Big Revival,2014.0,"calm, calm, calm",https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV
+527,Soundgarden,Rock,Blow Up the Outside World,Down on the Upside,1996.0,"calm, happy, sad, calm",https://open.spotify.com/track/5TLA7O0ogTqwZHbS3ERabw
+528,The Smiths,Rock,Reel Around the Fountain,The Smiths,1984.0,"calm, calm, calm",https://open.spotify.com/track/5bSASu4W0HJx6CuG8rbRcA
+529,George Strait,Country,God and Country Music,Honky Tonk Time Machine,2019.0,"happy, happy, calm, happy, sad",https://open.spotify.com/track/4RldvvNaEdteK2I0y6NWTR
+530,Bob Marley & The Wailers,Reggae,Exodus,Exodus,1977.0,"happy, happy",https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam
+531,Pearl Jam,Rock,Garden,Ten,1991.0,"calm, happy, sad, sad, fearful",https://open.spotify.com/track/3KcJEOyaLDLAERlOCBhmPA
+532,Post Malone,Hip-Hop,Go Flex,Stoney (Deluxe),2016.0,"calm, happy, happy, sad",https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ
+533,Jimmy Cliff,Reggae,Johnny Too Bad,Save Our Planet Earth,,"happy, happy, sad, fearful",https://open.spotify.com/track/5tK1AxcsXWbDOWKS78jnMg
+534,John Denver,Country,The Mountain Song,Autograph,,"calm, calm",https://open.spotify.com/track/6UIubKwCKsVDlc0hObeuUg
+536,Kenny Chesney,Country,Wild Child,The Big Revival,2014.0,"happy, calm, calm",https://open.spotify.com/track/050iNgNKEUrJboOnH4Jhm6
+538,Bauhaus,Rock,A God in an Alcove,In the Flat Field,,"happy, sad, fearful",https://open.spotify.com/track/5hpbZhdCC8qJ4BXWcWu7SH
+539,The Kinks,Rock,Dedicated Follower of Fashion,The Kink Kontroversy ,1966.0,"happy, happy, sad",https://open.spotify.com/track/00cXVWYtUXL9OVcwbA2UiD
+540,Ice Cube,Hip-Hop,The Nigga Ya Love to Hate,AmeriKKKa’s Most Wanted,1990.0,"happy, fearful",https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ
+541,The Rolling Stones,Rock,Angie,Goats Head Soup,1973.0,"happy, calm, sad, calm",https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq
+542,Manic Street Preachers,Rock,Mausoleum,The Holy Bible,1994.0,"calm, sad, sad, fearful",https://open.spotify.com/track/06NKSnEMiEJ9NSGRq54JfE
+543,Merle Haggard,Country,I’m A White Boy,All Night Long,1977.0,"happy, happy, sad, fearful",https://open.spotify.com/track/6OTt38sxQQ2iyKbUGCjAvs
+544,Black Uhuru,Reggae,Fit You Haffe Fit,Brutal,,"happy, calm, happy, sad, calm",https://open.spotify.com/track/52kBx11aJPRdkGCi14aDKs
+545,The Replacements,Rock,Can’t Hardly Wait (The Tim Version),Tim,1997.0,"sad, sad",https://open.spotify.com/track/6iCsxY7ylVPS9Okw6QZfAU
+546,Miranda Lambert,Country,Tin Man,The Weight of These Wings,2016.0,"calm, sad",https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE
+547,Shaggy,Reggae,Habibi (I Need Your love),,2014.0,"happy, calm, calm",https://open.spotify.com/track/2CzNAvr2nZKYxthPVMvdVe
+548,Luke Bryan,Country,Crash My Party,Crash My Party,2013.0,"happy, calm, happy, calm",https://open.spotify.com/track/6GBUsjHfZuweYf5lQEz6mP
+550,Nirvana,Rock,Territorial Pissings,Nevermind,1991.0,"happy, happy, calm, happy",https://open.spotify.com/track/2jmVGWe4MYY1zAAzpFHHcC
+551,Johnny Cash,Country,Heart of Gold,Unearthed 2: Trouble in Mind,2003.0,"calm, calm, sad, fearful",https://open.spotify.com/track/6p6LQkPZFP8MLCFT1tRpZw
+552,Desmond Dekker,Reggae,Jamaica Ska,King of Kings,,"happy, happy",https://open.spotify.com/track/4ZWmgv8yPNanjASjxUVzB4
+553,Pink Floyd,Rock,Breathe (In the Air),The Dark Side of the Moon,1973.0,"happy, happy, calm, sad",https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53
+554,Ice Cube,Hip-Hop,Everythang’s Corrupt,Everythang’s Corrupt,2013.0,"sad, fearful",https://open.spotify.com/track/3xY5KyqwjKjn9LMz6NrijL
+555,Kendrick Lamar,Hip-Hop,LOYALTY.,DAMN.,2017.0,"happy, happy, sad, calm, fearful",https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n
+556,The Smiths,Rock,This Night Has Opened My Eyes,Hatful of Hollow,1984.0,"sad, fearful",https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD
+557,Martina McBride,Country,Just Around The Corner,Reckless,2016.0,"calm, sad, sad",https://open.spotify.com/track/25PFcgeR3WoFGXV7cdIm53
+558,2Pac,Hip-Hop,Only God Can Judge Me,All Eyez on Me,1996.0,"happy, happy, sad, sad, fearful",https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y
+559,Nirvana,Rock,Dumb,In Utero,1993.0,"happy, calm, sad, sad",https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q
+560,The Charlatans,Rock,Just When You’re Thinkin’ Things Over,The Charlatans,1995.0,calm,https://open.spotify.com/track/0uqn625244juq4sKbo9iXw
+561,Kenny Rogers,Country,Just Dropped In (To See What Condition My Condition Was In),The First Edition,,"happy, calm, sad, fearful",https://open.spotify.com/track/0LYI2vHQ07bYRWqw0lXLhJ
+562,Bauhaus,Rock,Third Uncle,The Sky’s Gone Out,1982.0,"happy, calm, fearful",https://open.spotify.com/track/64wzahVKqYvQD8uUlz45O0
+563,50 Cent,Hip-Hop,Back Down,Get Rich or Die Tryin’,2003.0,"happy, happy",https://open.spotify.com/track/3EjmNhVqZ4FjK8ZyVKWKM6
+564,The Notorious B.I.G.,Hip-Hop,What’s Beef?,Life After Death,1997.0,"happy, sad, sad, fearful",https://open.spotify.com/track/0S736hkRjkdmuvbZuvx1sh
+565,Wyclef Jean,Hip-Hop,I Swear,J’ouvert,2016.0,"happy, calm",https://open.spotify.com/track/4bNPvNC63AvoBWi42mkzQ2
+566,Jimmy Cliff,Reggae,Sitting in Limbo,Another Cycle,,"calm, calm, sad",https://open.spotify.com/track/0lMyBUPFMCXZOILHe4uFwM
+567,Shaggy,Reggae,Hope,Hot Shot,1999.0,"happy, calm, happy, sad",https://open.spotify.com/track/5whIG7u2VjyILwGqm9dkDD
+568,John Denver,Country,"Take Me Home, Country Roads","Poems, Prayers & Promises",1971.0,"calm, calm, sad, calm",https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS
+569,Jimmy Cliff,Reggae,"Wonderful World, Beautiful People",Jimmy Cliff,,"happy, happy, sad, fearful",https://open.spotify.com/track/7vCEPLGrLHqBHyRPPsweYY
+570,Alan Jackson,Country,Livin’ On Love,Who I Am,1994.0,"happy, happy, calm",https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF
+571,The Church,Rock,"North, South, East And West",Starfish,1988.0,"happy, sad, fearful",https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU
+572,Lauryn Hill,Hip-Hop,The Miseducation of Lauryn Hill,The Miseducation of Lauryn Hill,1998.0,"calm, happy, sad, sad",https://open.spotify.com/track/12Y1GaS44vga0G3rUtjFAY
+573,Steel Pulse,Reggae,Reggae Fever,Caught You,,"happy, calm, happy, happy, calm",https://open.spotify.com/track/6f4257T2heay38ayHNubqs
+574,Tarrus Riley,Reggae,Stay With You,Parables,,"calm, happy, calm",https://open.spotify.com/track/18KzwTjTnbBaspORB0tpzM
+575,Faith Hill,Country,Cry,Cry,2002.0,"sad, calm, fearful",https://open.spotify.com/track/6mJMvtuCMZt4XXNs5zw1zx
+576,The Rolling Stones,Rock,(I Can’t Get No) Satisfaction,Out of Our Heads,1965.0,"calm, sad, fearful",https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34
+577,The Jam,Rock,Start,Sound Affects,1980.0,"calm, calm, fearful",https://open.spotify.com/track/4UMe4g2AJpHGQRAsPoMLe8
+578,Soundgarden,Rock,Rusty Cage,Badmotorfinger,1991.0,"happy, sad, fearful",https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV
+579,​​blink-182,Rock,Sober,California,2016.0,"sad, sad, calm",https://open.spotify.com/track/3CWl8qwzoDGS3Xp4NGU8E5
+580,Damian Marley,Reggae,Gunman World,"Ghetto Youths International presents Set Up Shop, Vol. 2 ",2014.0,"happy, sad, fearful",https://open.spotify.com/track/255UBOBs9IQdPsHt8Ylsh4
+581,Kanye West,Hip-Hop,Waves,The Life of Pablo,2016.0,"happy, happy",https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL
+582,The Kinks,Rock,The Village Green Preservation Society,The Kinks Are The Village Green Preservation Society,1968.0,"calm, calm, sad",https://open.spotify.com/track/3iEl8l2BUT8FADP9OZCdsO
+583,The Kinks,Rock,Sunny Afternoon,Face To Face,1966.0,"sad, fearful",https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY
+584,Buju Banton,Reggae,Batty Rider,Mr. Mention,,"happy, fearful",https://open.spotify.com/track/2KBhQoB9ppXnSNncNdRtV2
+585,J. Cole,Hip-Hop,4 Your Eyez Only,4 Your Eyez Only,2016.0,"calm, happy, sad, fearful",https://open.spotify.com/track/1vvnYpYEMVB4aq9I6tHIEB
+586,Snoop Dogg,Hip-Hop,Gz and Hustlas,Doggystyle,1993.0,"calm, happy, happy, fearful",https://open.spotify.com/track/3gTPlYouwH2OoVbMQBB4UC
+587,The Who,Rock,Squeeze Box,The Who By Numbers,1976.0,"calm, sad, calm, fearful",https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X
+588,The Doors,Rock,When the Music’s Over,Strange Days,1967.0,"happy, happy, sad, calm",https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl
+589,Kenny Rogers,Country,Lucille,Kenny Rogers,1977.0,"calm, sad, sad, fearful",https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM
+590,Yellowman,Reggae,Still Be A Lady / Girls Can’t Do What The Guys Do,King Yellowman,,"calm, happy, sad, calm, fearful",https://open.spotify.com/track/5tb90QUoJI5jkU84mmjYyY
+591,The Kinks,Rock,Lola,"Lola Versus Powerman and the Moneygoround, Part One ",1970.0,"happy, calm, happy, calm",https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp
+592,Pearl Jam,Rock,Porch,Ten,1991.0,"calm, sad, sad, fearful",https://open.spotify.com/track/3zNkNyXEeDs2HeAZ0fYqxI
+593,Inner Circle,Reggae,Rock with You,Bad Boys,,"happy, sad, calm",https://open.spotify.com/track/714StlwowNknowfVusgT9n
+594,Pink Floyd,Rock,High Hopes,The Division Bell,1994.0,"calm, calm",https://open.spotify.com/track/5a4MgIUSf9K8wXLSm6xPEx
+595,Nickelback,Rock,Far Away,All the Right Reasons,2006.0,"calm, sad, calm, fearful",https://open.spotify.com/track/05rWggLwQ2weA4D2cRAt55
+596,The Sisters of Mercy,Rock,Vision Thing,Vision Thing,,"happy, happy, sad, fearful",https://open.spotify.com/track/3CEMt2xtEKL8JL2UK3khZV
+597,Rita Marley,Reggae,Harambe,Harambe (Working Together For Freedom),1982.0,"happy, calm, happy, sad",https://open.spotify.com/track/2WkJww7lMTW2ZpA9qm6R2J
+598,Buju Banton,Reggae,Mr. Nine,Tune In Riddim,,"happy, fearful",https://open.spotify.com/track/2QZw3Bap78U7HsvgzLzqtX
+599,Elvis Presley,Rock,Don’t Be Cruel,Elvis’ Golden Records,1956.0,"calm, sad, calm",https://open.spotify.com/track/1MUsWVRPLaC7ANKcEiMRCl
+600,De La Soul,Hip-Hop,Itzsoweezee (HOT),Stakes Is High,1996.0,"happy, happy, sad, fearful",https://open.spotify.com/track/4jg52E3IlZ4IaFg8xizgDK
+601,Creed,Rock,Torn,My Own Prison,1997.0,"happy, calm, happy, sad",https://open.spotify.com/track/3DzACnzaSuuMseZqqTFfNy
+602,Faith Hill,Country,The Way You Love Me,Breathe,1999.0,"happy, calm",https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9
+603,Manic Street Preachers,Rock,Your Love Alone Is Not Enough,Send Away the Tigers,2007.0,"sad, sad, calm, fearful",https://open.spotify.com/track/37pFLuNVnAJQL9ysRoKTdy
+604,The Rolling Stones,Rock,Sympathy for the Devil,Beggars Banquet,1969.0,"calm, happy, sad",https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0
+605,Peter Tosh,Reggae,Oh Bumbo Klaat,Wanted Dread & Alive,,"calm, calm, happy, sad",https://open.spotify.com/track/3Yc71HcDmNGNsHJ4SS2qxD
+606,Buju Banton,Reggae,Close One Yesterday,Inna Heights,,"calm, happy, sad, fearful",https://open.spotify.com/track/13d3ayMMizCDVfByuVcFUI
+607,The Sisters of Mercy,Rock,Temple of Love,Temple Of Love,1983.0,"calm, sad, calm, fearful",https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP
+609,Radiohead,Rock,Ful Stop,A Moon Shaped Pool,2016.0,"calm, sad, fearful",https://open.spotify.com/track/6nOsTV3cMjLh3k6Wpk468L
+610,Creed,Rock,Bullets,Weathered,2001.0,"happy, sad, sad, fearful",https://open.spotify.com/track/7rv1mkFBfSvOq48tLGwjvq
+611,Johnny Cash,Country,"Cry, Cry, Cry",Johnny Cash With His Hot and Blue Guitar,1955.0,"calm, happy, sad, calm",https://open.spotify.com/track/04udZBhiX0CXYEo0bHyHbE
+612,The Mighty Diamonds,Reggae,Right Time,When the Right Time Come (I Need a Roof),,"happy, happy, sad",https://open.spotify.com/track/5p3kVMB5spe9fY9CKNAiRm
+613,Alan Jackson,Country,Freight Train,Freight Train,2010.0,"calm, happy, sad, calm",https://open.spotify.com/track/6oo0HD3mrcYtzApYeYsS4L
+614,De La Soul,Hip-Hop,All Good?,Art Official Intelligence: Mosaic Thump,2000.0,"calm, sad, fearful",https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI
+615,The Kinks,Rock,A Well Respected Man,The Kinks In Germany ,1965.0,"happy, calm, happy, calm",https://open.spotify.com/track/4fn4imVYZcfM5s4cSCDRTm
+616,Black Uhuru,Reggae,Utterance,Red,,"happy, calm, happy, calm, sad",https://open.spotify.com/track/5bQB7guOB6v1QZmFxgZVfc
+617,Elvis Presley,Rock,An American Trilogy,Elvis: As Recorded Live On Stage In Memphis,,"calm, happy, sad",https://open.spotify.com/track/5iPiI5NTu09tx9CkVhM3pF
+618,Radiohead,Rock,Karma Police,OK Computer,1997.0,"sad, fearful",https://open.spotify.com/track/63OQupATfueTdZMWTxW03A
+619,Garnett Silk,Reggae,What Do You Say?,,,"happy, happy, fearful",https://open.spotify.com/track/6l4sTpceOQSn5YGWarTTbq
+620,Nickelback,Rock,Figured You Out,The Long Road,2003.0,"calm, calm, fearful",https://open.spotify.com/track/1Yuim9eHBfG8YUJII28XDF
+621,The Who,Rock,We’re Not Gonna Take It,Tommy,1969.0,"happy, happy, calm, happy, sad",https://open.spotify.com/track/7jFImjC2qNx6K4WP8PPzGv
+622,The Charlatans,Rock,Can’t Get Out of Bed,Up to Our Hips,1994.0,"calm, sad, calm",https://open.spotify.com/track/5oztGbys2TYesTZH2rAU8E
+623,Pearl Jam,Rock,Just Breathe,Backspacer,2009.0,"calm, sad, calm",https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2
+624,The Doors,Rock,Touch Me,The Soft Parade,1969.0,calm,https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW
+625,Kenny Rogers,Country,The Greatest,She Rides Wild Horses,,"happy, happy, calm, happy",https://open.spotify.com/track/6dnco8haegnJYtylV26cBq
+626,The Cure,Rock,Fascination Street,Disintegration,1989.0,"happy, sad, calm, fearful",https://open.spotify.com/track/23j7dlNIalftynH6fNllR9
+627,Luke Bryan,Country,That’s My Kind of Night,Crash My Party,,"happy, happy, happy, calm",https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE
+628,Bob Marley & The Wailers,Reggae,Buffalo Soldier,Confrontation ,1983.0,"happy, calm, happy, sad, fearful",https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb
+629,Bob Marley & The Wailers,Reggae,Time Will Tell,Kaya (Remastered),,"calm, sad, sad, fearful",https://open.spotify.com/track/4a3OY0g56nps09RkcHWDu3
+630,Radiohead,Rock,Fake Plastic Trees,The Bends,1995.0,"calm, sad, fearful",https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
+631,The Notorious B.I.G.,Hip-Hop,Ten Crack Commandments,Life After Death,1997.0,"happy, sad, fearful",https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2
+632,Miranda Lambert,Country,Somethin’ Bad,Platinum,2014.0,"happy, calm, happy",https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2
+633,UB40,Reggae,I Got You Babe,Little Baggariddim,,"calm, happy, calm",https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ
+635,J. Cole,Hip-Hop,Power Trip,Born Sinner (Deluxe Version),2013.0,"happy, calm",https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy
+636,Ziggy Marley,Reggae,Family Time,Family Time,,"happy, happy, sad, calm",https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM
+637,Faith Hill,Country,Wild One,Take Me As I Am,1993.0,"happy, happy, happy, sad, fearful",https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f
+638,Kendrick Lamar,Hip-Hop,Alright,To Pimp a Butterfly,2015.0,"happy, sad, fearful",https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs
+639,The Smiths,Rock,I Know It’s Over,The Queen Is Dead,1986.0,"calm, sad",https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3
+640,Steel Pulse,Reggae,Handsworth Revolution,Handsworth Revolution,,"happy, sad, fearful",https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM
+641,Buju Banton,Reggae,Wicked Dickie,The Best of the Early Years: 1990-1995,,"happy, calm",https://open.spotify.com/track/22bCF7mgrsIci0hwSmQOiu
+642,JAY-Z,Hip-Hop,Song Cry,The Blueprint,2002.0,"calm, sad, calm, fearful",https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba
+643,Kenny Rogers,Country,Lady,Greatest Hits,1980.0,calm,https://open.spotify.com/track/5Pj5zrq2nbKcAekH1AxbrO
+644,De La Soul,Hip-Hop,Oooh,Art Official Intelligence: Mosaic Thump,2000.0,"happy, happy, happy, sad, fearful",https://open.spotify.com/track/37mmrmIWwMY002Uw5aHm7F
+645,Hank Williams,Country,I Saw the Light,Hank Williams Sings,1948.0,"happy, happy, sad",https://open.spotify.com/track/04bsExZXrwoRXYKKDWlTIU
+646,Carrie Underwood,Country,Blown Away,Blown Away,2012.0,"sad, fearful",https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2
+647,Merle Haggard,Country,The Fightin’ Side Of Me,The Fightin’ Side of Me,1970.0,"happy, fearful",https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1
+648,Buju Banton,Reggae,Wanna be Loved,’Til Shiloh,,"sad, calm",https://open.spotify.com/track/4yqIdAqFaWVxzvCgbJp3xh
+649,Damian Marley,Reggae,Medication,Stony Hill,2017.0,"happy, happy, happy, calm",https://open.spotify.com/track/2WQKHNETUytUGsD32TTNeO
+650,Loretta Lynn,Country,You’re the Reason Our Kids Are Ugly,Honky Tonk Heroes,1978.0,"calm, calm, fearful",https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI
+652,Creed,Rock,Don’t Stop Dancing,Weathered,2002.0,"sad, sad",https://open.spotify.com/track/4FzrCRil9uGpGGsnnM0vkE
+653,The Notorious B.I.G.,Hip-Hop,Sky’s The Limit,Life After Death,1997.0,"calm, happy, sad, calm",https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX
+654,Shaggy,Reggae,Strength of a Woman,Lucky Day,,"happy, sad, calm",https://open.spotify.com/track/3Rv2kFdLcwVdS47BLwo22O
+655,Kenny Chesney,Country,You And Tequila,Hemingway’s Whiskey,2011.0,"happy, happy, calm, sad, calm",https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk
+657,Garth Brooks,Country,If Tomorrow Never Comes,Garth Brooks,1989.0,"calm, calm",https://open.spotify.com/track/7MOsr4iEUasjzY2Uiktu0m
+658,Dolly Parton,Country,Here You Come Again,Here You Come Again,1977.0,"calm, sad, sad, calm, fearful",https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L
+659,Shaggy,Reggae,In the Summertime,Boombastic,1995.0,"happy, happy, calm",https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI
+660,Wu-Tang Clan,Hip-Hop,Wu-Tang: 7th Chamber,Enter the Wu-Tang (36 Chambers),1993.0,"happy, sad, fearful",https://open.spotify.com/track/5wcY4XgawQ2se8VjDLhedQ
+661,Kenny Rogers,Country,Ruby Don’t Take Your Love To Town,Greatest Hits,,"calm, sad, sad, calm, fearful",https://open.spotify.com/track/29c8g7oRRQxmMktEG4sPb1
+662,Drake,Hip-Hop,Passionfruit,More Life,2017.0,happy,https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz
+663,​​blink-182,Rock,Dumpweed,Enema of the State,1999.0,"sad, calm, fearful",https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C
+664,Burning Spear,Reggae,Slavery Days,Marcus Garvey,,"calm, sad",https://open.spotify.com/track/2xYUmiqMOw2deOABJ1f67h
+665,The Jam,Rock,That’s Entertainment,Sound Affects,1980.0,"happy, happy, calm",https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0
+666,Bauhaus,Rock,The Passion of Lovers,Mask,1981.0,"sad, calm, fearful",https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ
+667,Steel Pulse,Reggae,Blues Dance Raid,True Democracy,,"happy, sad, fearful",https://open.spotify.com/track/2Ovunu5CefrYY6Ovk2lqUd
+668,The Rolling Stones,Rock,You Can’t Always Get What You Want,Let It Bleed,1969.0,"happy, calm, happy, happy, fearful",https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ
+669,Soundgarden,Rock,4th Of July,Superunknown ,1994.0,"sad, sad, fearful",https://open.spotify.com/track/2bdUkiK4p2wuaqzcBLm1zc
+670,Nirvana,Rock,About a Girl,Bleach,1989.0,"sad, calm, fearful",https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok
+671,The Charlatans,Rock,Spinning Out,Different Days,2017.0,"happy, happy, calm, sad, calm",https://open.spotify.com/track/1qnHiK0zOM4WpPWtVNNb8a
+672,Steel Pulse,Reggae,Steppin’ Out,Earth Crisis,,"happy, happy, calm",https://open.spotify.com/track/7cxJUcO4HTrJ2jniaKOAaw
+673,Faith Hill,Country,I Love You,Faith,,"calm, calm, fearful",https://open.spotify.com/track/503sFkc8Y2eyGnM6cu8kHm
+674,The Sundays,Rock,When I’m Thinking About You,Static & Silence,1997.0,"calm, sad, calm",https://open.spotify.com/track/2RtOnuOdBiecnBoX8x9uoO
