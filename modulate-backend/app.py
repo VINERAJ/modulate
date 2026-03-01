@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import torch
 import torch.nn.functional as F
-from transformers import AutoModelForAudioClassification, Wav2Vec2FeatureExtractor
+from transformers import AutoModelForAudioClassification, AutoFeatureExtractor
 import numpy as np
 import os
 from werkzeug.utils import secure_filename
@@ -52,11 +52,12 @@ songs_df = None
 
 def load_models():
     """Load models - called once when container starts"""
-    global model, feature_extractor
+    global model, feature_extractor, id2label
     print("Loading models...")
-    model_name = "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition"
+    model_name = "firdhokk/speech-emotion-recognition-with-facebook-wav2vec2-large-xlsr-53"
     model = AutoModelForAudioClassification.from_pretrained(model_name)
-    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-large-xlsr-53")
+    feature_extractor = AutoFeatureExtractor.from_pretrained(model_name)
+    id2label = {str(int(k)): str(v).strip().lower() for k, v in model.config.id2label.items()}
     print("Models loaded successfully!")
 
 def load_songs_data():
