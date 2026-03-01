@@ -349,12 +349,6 @@ export default function Home() {
               </a>
             </div>
           )}
-
-          {songs.length === 0 && isLoadingSongs === false && analysisResult && songs !== null && (
-            <div className="w-full mt-4 p-4 rounded-lg bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200">
-              <p className="font-medium">No songs found for this emotion</p>
-            </div>
-          )}
         </div>
       </main>
     </div>
