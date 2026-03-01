@@ -5,6 +5,7 @@ import { useState, useRef, useCallback } from "react";
 interface AnalysisResult {
   emotion: string;
   confidence: number;
+  top_emotions?: { emotion: string; percentage: number }[];
 }
 
 interface Song {
@@ -18,9 +19,9 @@ const EMOTION_PALETTE: Record<string, { from: string; via: string; to: string; a
   happy:    { from: "#f59e0b", via: "#f97316", to: "#ec4899", accent: "#fb923c" },
   sad:      { from: "#1d4ed8", via: "#4f46e5", to: "#7c3aed", accent: "#818cf8" },
   angry:    { from: "#b91c1c", via: "#dc2626", to: "#f97316", accent: "#f87171" },
-  fear:     { from: "#3b0764", via: "#7c3aed", to: "#4c1d95", accent: "#a78bfa" },
+  fearful:  { from: "#3b0764", via: "#7c3aed", to: "#4c1d95", accent: "#a78bfa" },
   disgust:  { from: "#065f46", via: "#059669", to: "#0891b2", accent: "#34d399" },
-  surprise: { from: "#9d174d", via: "#db2777", to: "#9333ea", accent: "#f472b6" },
+  surprised:{ from: "#9d174d", via: "#db2777", to: "#9333ea", accent: "#f472b6" },
   neutral:  { from: "#1e293b", via: "#334155", to: "#475569", accent: "#94a3b8" },
 };
 const DEFAULT_BG = { from: "#0f172a", via: "#1e1b4b", to: "#0f172a", accent: "#818cf8" };
@@ -213,6 +214,7 @@ export default function Home() {
       setAnalysisResult({
         emotion: result.emotion,
         confidence: result.confidence,
+        top_emotions: result.top_emotions,
       });
     } catch (err) {
       const errorMessage =
@@ -344,6 +346,17 @@ export default function Home() {
                   style={{ width: `${analysisResult.confidence * 100}%`, background: pal.accent }} />
               </div>
               <p className="text-white/25 text-xs mt-1">{(analysisResult.confidence * 100).toFixed(0)}% confidence</p>
+              {analysisResult.top_emotions && analysisResult.top_emotions.length > 0 && (
+                <div className="mt-3 space-y-1">
+                  <p className="text-white/35 text-[10px] uppercase tracking-[0.18em]">cross-check</p>
+                  {analysisResult.top_emotions.slice(0, 3).map((item) => (
+                    <div key={item.emotion} className="flex items-center justify-between text-xs">
+                      <span className="text-white/70 capitalize">{item.emotion}</span>
+                      <span className="text-white/50">{item.percentage.toFixed(2)}%</span>
+                    </div>
+                  ))}
+                </div>
+              )}
             </div>
             <button onClick={fetchSongs} disabled={isLoadingSongs}
               className="w-full py-3 rounded-2xl text-sm font-semibold text-white flex items-center justify-center gap-2 transition hover:opacity-90 disabled:opacity-50"

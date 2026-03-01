@@ -50,6 +50,25 @@ model = None
 feature_extractor = None
 songs_df = None
 
+
+def canonical_mood(label):
+    mood_aliases = {
+        "anger": "angry",
+        "angry": "angry",
+        "calm": "calm",
+        "disgust": "disgust",
+        "fear": "fearful",
+        "fearful": "fearful",
+        "happy": "happy",
+        "happiness": "happy",
+        "neutral": "neutral",
+        "sad": "sad",
+        "sadness": "sad",
+        "surprise": "surprised",
+        "surprised": "surprised",
+    }
+    return mood_aliases.get(str(label).strip().lower(), str(label).strip().lower())
+
 def load_models():
     """Load models - called once when container starts"""
     global model, feature_extractor, id2label
@@ -57,7 +76,10 @@ def load_models():
     model_name = "firdhokk/speech-emotion-recognition-with-facebook-wav2vec2-large-xlsr-53"
     model = AutoModelForAudioClassification.from_pretrained(model_name)
     feature_extractor = AutoFeatureExtractor.from_pretrained(model_name)
-    id2label = {str(int(k)): str(v).strip().lower() for k, v in model.config.id2label.items()}
+    id2label = {
+        str(int(k)): canonical_mood(v)
+        for k, v in model.config.id2label.items()
+    }
     print("Models loaded successfully!")
 
 def load_songs_data():
@@ -115,63 +137,48 @@ def trim_silence(audio, sr=16000, threshold=0.01, min_silence_duration=0.1):
 
 def predict_mood_result(audio_file_path):
     """
-    Predict the emotion from an audio file using chunked inference.
-    Splits audio into overlapping 3-second windows (matching model training length),
-    averages logits across chunks, then applies temperature scaling for sharper confidence.
+    Predict the emotion from an audio file and return top percentage breakdown.
     Args:
         audio_file_path: Path to the audio file
     Returns:
-        Emotion label as string, confidence score
+        Predicted mood, confidence score, and top emotion percentages
     """
-    CHUNK_SEC = 3.0         # model was trained on ~3s RAVDESS clips
-    OVERLAP = 0.5           # 50% overlap between windows
-    TEMPERATURE = 9       # <1 sharpens the softmax distribution
     SR = 16000
 
     try:
         sound_array = load_wav_mono_16k(audio_file_path)
 
-        # Trim leading/trailing silence
-        sound_array = trim_silence(sound_array, sr=SR)
+        inputs = feature_extractor(
+            raw_speech=sound_array,
+            sampling_rate=SR,
+            padding=True,
+            return_tensors="pt"
+        )
 
-        chunk_samples = int(CHUNK_SEC * SR)
-        step_samples = int(chunk_samples * (1 - OVERLAP))
+        with torch.no_grad():
+            logits = model(**inputs).logits
 
-        # Build list of chunks; always include at least one
-        chunks = []
-        if len(sound_array) <= chunk_samples:
-            chunks.append(sound_array)
-        else:
-            for start in range(0, len(sound_array) - chunk_samples + 1, step_samples):
-                chunks.append(sound_array[start:start + chunk_samples])
-            # Include a final chunk anchored at the end if not already covered
-            if (len(sound_array) - chunk_samples) % step_samples != 0:
-                chunks.append(sound_array[-chunk_samples:])
+        probabilities = F.softmax(logits, dim=-1)[0].cpu().numpy()
 
-        # Run inference on each chunk and accumulate logits
-        accumulated_logits = None
-        for chunk in chunks:
-            inputs = feature_extractor(
-                raw_speech=chunk,
-                sampling_rate=SR,
-                padding=True,
-                return_tensors="pt"
-            )
-            with torch.no_grad():
-                logits = model(inputs.input_values.float()).logits
-            accumulated_logits = logits if accumulated_logits is None else accumulated_logits + logits
+        mood_scores = {}
+        for index, probability in enumerate(probabilities):
+            raw_label = id2label.get(str(int(index)), str(int(index)))
+            mood = canonical_mood(raw_label)
+            mood_scores[mood] = mood_scores.get(mood, 0.0) + float(probability)
 
-        # Average logits across chunks, then apply temperature scaling
-        avg_logits = accumulated_logits / len(chunks)
-        scaled_logits = avg_logits / TEMPERATURE
+        sorted_moods = sorted(mood_scores.items(), key=lambda item: item[1], reverse=True)
+        top_emotions = [
+            {
+                "emotion": mood,
+                "percentage": round(score * 100, 2)
+            }
+            for mood, score in sorted_moods[:5]
+        ]
 
-        predicted_id = torch.argmax(scaled_logits, dim=-1).item()
-        emotion = id2label[str(predicted_id)]
+        predicted_mood = top_emotions[0]["emotion"]
+        confidence = top_emotions[0]["percentage"] / 100.0
 
-        probabilities = F.softmax(scaled_logits, dim=-1)
-        confidence = probabilities[0, predicted_id].item()
-
-        return emotion, confidence
+        return predicted_mood, confidence, top_emotions
     except Exception as e:
         raise Exception(f"Error processing audio: {str(e)}")
 
@@ -273,13 +280,14 @@ def serve():
             filepath = os.path.join(flask_app.config['UPLOAD_FOLDER'], filename)
             file.save(filepath)
             
-            emotion, confidence = predict_mood_result(filepath)
+            emotion, confidence, top_emotions = predict_mood_result(filepath)
             
             os.remove(filepath)
             
             return jsonify({
                 'emotion': emotion,
                 'confidence': round(confidence, 4),
+                'top_emotions': top_emotions,
                 'success': True
             }), 200
         
@@ -360,13 +368,14 @@ if __name__ == '__main__':
             filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
             file.save(filepath)
             
-            emotion, confidence = predict_mood_result(filepath)
+            emotion, confidence, top_emotions = predict_mood_result(filepath)
             
             os.remove(filepath)
             
             return jsonify({
                 'emotion': emotion,
                 'confidence': round(confidence, 4),
+                'top_emotions': top_emotions,
                 'success': True
             }), 200
         
