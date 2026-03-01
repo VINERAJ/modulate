@@ -75,6 +75,7 @@ def load_models():
     print("Loading models...")
     model_name = "firdhokk/speech-emotion-recognition-with-facebook-wav2vec2-large-xlsr-53"
     model = AutoModelForAudioClassification.from_pretrained(model_name)
+    model.eval()
     feature_extractor = AutoFeatureExtractor.from_pretrained(model_name)
     id2label = {
         str(int(k)): canonical_mood(v)
@@ -147,6 +148,11 @@ def predict_mood_result(audio_file_path):
 
     try:
         sound_array = load_wav_mono_16k(audio_file_path)
+
+        # Peak-normalize waveform to [-1, 1] (matches notebook)
+        max_abs = np.max(np.abs(sound_array))
+        if max_abs > 0:
+            sound_array = sound_array / max_abs
 
         inputs = feature_extractor(
             raw_speech=sound_array,
