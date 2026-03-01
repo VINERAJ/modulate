@@ -82,6 +82,14 @@ export default function Home() {
   };
 
   const startRecording = async () => {
+    setError(null);
+    setAnalysisResult(null);
+    setIsLoadingSongs(false);
+    setSelectedSong(null);
+    setSongs([]);
+    setAudioURL(null);
+    setIsAnalyzing(false);
+    setAnalysisResult(null);
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
       const mediaRecorder = new MediaRecorder(stream);
@@ -160,7 +168,6 @@ export default function Home() {
         method: "POST",
         body: formData,
       });
-
       if (!analysisResponse.ok) {
         const errorData = await analysisResponse.json();
         throw new Error(errorData.error || "Failed to analyze audio");
@@ -202,7 +209,6 @@ export default function Home() {
         },
         body: JSON.stringify({ emotion: analysisResult.emotion }),
       });
-
       if (!response.ok) {
         const errorData = await response.json();
         throw new Error(errorData.error || "Failed to fetch songs");
@@ -210,6 +216,7 @@ export default function Home() {
 
       const result = await response.json();
       setSongs(result.songs);
+      console.log("Fetched songs:", result.songs);
     } catch (err) {
       const errorMessage =
         err instanceof Error ? err.message : "An error occurred";
