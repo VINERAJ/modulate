@@ -96,34 +96,80 @@ def load_wav_mono_16k(audio_file_path):
 
     return audio
 
+def trim_silence(audio, sr=16000, threshold=0.01, min_silence_duration=0.1):
+    """Remove leading and trailing silence from audio."""
+    min_silence_samples = int(min_silence_duration * sr)
+    frame_length = 512
+    energy = np.array([
+        np.sqrt(np.mean(audio[i:i+frame_length]**2))
+        for i in range(0, len(audio) - frame_length, frame_length)
+    ])
+    active_frames = np.where(energy > threshold)[0]
+    if len(active_frames) == 0:
+        return audio  # all silence, return as-is
+    start = max(0, active_frames[0] * frame_length - min_silence_samples)
+    end = min(len(audio), (active_frames[-1] + 1) * frame_length + min_silence_samples)
+    return audio[start:end]
+
+
 def predict_mood_result(audio_file_path):
     """
-    Predict the emotion from an audio file.
+    Predict the emotion from an audio file using chunked inference.
+    Splits audio into overlapping 3-second windows (matching model training length),
+    averages logits across chunks, then applies temperature scaling for sharper confidence.
     Args:
         audio_file_path: Path to the audio file
     Returns:
-        Emotion label as string
+        Emotion label as string, confidence score
     """
+    CHUNK_SEC = 3.0         # model was trained on ~3s RAVDESS clips
+    OVERLAP = 0.5           # 50% overlap between windows
+    TEMPERATURE = 9       # <1 sharpens the softmax distribution
+    SR = 16000
+
     try:
         sound_array = load_wav_mono_16k(audio_file_path)
 
-        input_values = feature_extractor(
-            raw_speech=sound_array,
-            sampling_rate=16000,
-            padding=True,
-            return_tensors="pt"
-        )
+        # Trim leading/trailing silence
+        sound_array = trim_silence(sound_array, sr=SR)
 
-        with torch.no_grad():
-            logits = model(input_values.input_values.float()).logits
-            
-        predicted_id = torch.argmax(logits, dim=-1).item()
+        chunk_samples = int(CHUNK_SEC * SR)
+        step_samples = int(chunk_samples * (1 - OVERLAP))
+
+        # Build list of chunks; always include at least one
+        chunks = []
+        if len(sound_array) <= chunk_samples:
+            chunks.append(sound_array)
+        else:
+            for start in range(0, len(sound_array) - chunk_samples + 1, step_samples):
+                chunks.append(sound_array[start:start + chunk_samples])
+            # Include a final chunk anchored at the end if not already covered
+            if (len(sound_array) - chunk_samples) % step_samples != 0:
+                chunks.append(sound_array[-chunk_samples:])
+
+        # Run inference on each chunk and accumulate logits
+        accumulated_logits = None
+        for chunk in chunks:
+            inputs = feature_extractor(
+                raw_speech=chunk,
+                sampling_rate=SR,
+                padding=True,
+                return_tensors="pt"
+            )
+            with torch.no_grad():
+                logits = model(inputs.input_values.float()).logits
+            accumulated_logits = logits if accumulated_logits is None else accumulated_logits + logits
+
+        # Average logits across chunks, then apply temperature scaling
+        avg_logits = accumulated_logits / len(chunks)
+        scaled_logits = avg_logits / TEMPERATURE
+
+        predicted_id = torch.argmax(scaled_logits, dim=-1).item()
         emotion = id2label[str(predicted_id)]
-        
-        # Get confidence score
-        probabilities = F.softmax(logits, dim=-1)
+
+        probabilities = F.softmax(scaled_logits, dim=-1)
         confidence = probabilities[0, predicted_id].item()
-        
+
         return emotion, confidence
     except Exception as e:
         raise Exception(f"Error processing audio: {str(e)}")
